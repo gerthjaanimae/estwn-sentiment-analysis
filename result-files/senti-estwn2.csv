@@ -1,0 +1,370 @@
+a	01287282	0.25	0	silmahakkav;märgatav;silmapaistev;kättepaistev;silmatorkav;silmnähtav;nähtav;tähelepandav;tajutav	
+a	01698610	0	0.625	katmata;paljas	
+a	01270486	0.25	0.25	pealiskaudne;mitteammendav;pinnapealne;kerge;põgus	
+a	02036077	0.222	0.778	autundetu;autu;vääritu;väär	
+a	00639594	0	0.5	mõtlematu;arulage;arutu	
+a	02790222	0	0	põllumajanduslik	
+a	00570590	0.375	0	teadlik;informeeritud;kursis;teadvustatud	
+a	01017161	0.75	0	terve	Terve süda. Laps sündis terve ja tugevana. Kodus on kõik terved. Ta sai terveks.
+a	00343360	0	0.5	pääsmatu;paratamatu;möödapääsmatu;vältimatu	
+a	01303776	0	0	põrgulik;infernaalne	
+a	01168845	0.125	0.875	tervishoiuvastane;tervisevastane;tervisekahjulik;ebasanitaarne;ebatervislik	
+a	00178126	0.25	0.75	kurjakuulutav;halbaennustav;kurjaennustav;kurjaendeline;pahaendeline;halvaendeline	
+a	00075515	0	0.75	eitav;äraütlev;keelduv;mittenõustuv;nõustumatu	
+a	01907481	0	0.75	puhas;ehe;tõeline;ehtne	
+a	00915787	0	0.125	ebatäpne	Ebatäpne tsitaat, tõlge. Ebatäpne kaart. 
+a	00349894	0	0.625	lõplik;viimne;viimane	Ülemkohtu otsus on lõplik ning edasikaebamisele ei kuulu.
+a	02346351	0	1	kehvavõitu;kehvapoolne;viletsavõitu;nigel	
+a	01463965	0.75	0	kiindunud;armastav	
+a	02793273	0	0	teaduslik	
+a	00806512	0.375	0.25	ebahuvitav;kuiv;igav;mage	
+a	00815000	0	0	enneaegne;varajane	Enneaegsed öökülmad. Enneaegne surm. Meie rõõm oli enneaegne.
+a	00227507	0.75	0	parim;ületamatu	
+a	01531957	0	0.25	keskmine;mõõdukas	Olen keskmist kasvu. Sõitis keskmise kiirusega.
+a	02263491	0	0	udukas;aurune;hämune;udune;hägune	
+a	00326608	0	0.625	tuulepea;eblakas;tuisupäine;kergekäeline;kergemeelne;kerglane	Ta oli alati rõõmus, vahel veidi kergemeelnegi. 
+a	01254784	0	0	suvi-;suve-;suvine	
+a	02324397	0.125	0.5	nõrk;jõuetu	Näljast nõrgad loomad. Soiub jõuetul häälel.
+a	01903617	0	0	tõuline;täisvereline;täisverd;puhtavereline;puhtatõuline;tõupuhas	
+a	02080577	0.5	0.125	rahuldav	Rahuldav teraviljasaak. Rahuldavad ilmastikutingimused. Katsete tulemused on rahuldavad. Saksa keele rahuldav oskus.
+a	01333118	0.375	0	ratsionaalne;mõistuspärane;mõistuslik;kaine;arukas	
+a	00981304	0	0	laisk	
+a	00909363	0.125	0.875	õnnetu	Laps on nutma puhkemiseni õnnetu. Surmani õnnetu inimene.
+a	00163592	0.25	0	tähelepanelik	
+a	00583581	0.5	0	kõikumatu;vankumatu;kõigutamatu;kindel	Tegutseb vankumatu rahuga. On sama vankumatul seisukohal kui varemgi. 
+a	00134701	0	0	asjaomane;sellekohane;asjakohane;vastav	
+a	01996377	0.625	0	vastutusvõimeline;heaperemehelik;vastutustundeline;vastutustundlik;hoolikas	
+a	00530047	0.25	0.5	vagane;häirimatu;rahulik;vaikne	Elame vaikset elu. Siin kolkas on vaiksed olud. Kolis pealinnast maakohta, kus on vaiksem.
+a	00303727	0	0.75	tormine	Meri muutus tormiseks.
+a	02833331	0	0	taimeline;vegetatiivne	
+a	01471848	0.125	0.375	täiskasvanud;täisealine	
+a	00273082	0.125	0.125	pime;pimedavõitu;valgusetu;tume	Lõunamaa tumedad ööd. Päev on pilves ja tume. Küll on aga tume ilm.
+a	00134251	0.125	0.125	kontakteeruv;suhtlev;seltsiv	
+a	02821071	0	0	linnaline;linna-;linnalik;linlik	
+a	01415021	0	0	limiteeritud;vähene;piiratud	Uudistoodet valmistati piiratud koguses. Uuendusi võidi teostada piiratud ulatuses. Raamatu piiratud maht ei luba teemat põhjalikumalt käsitleda.
+a	02015238	0	0	revolutsiooniline	Revolutsiooniline liikumine. Revolutsioonilised parteid. 
+a	01643480	0	0	noor	Pähklid on korjamiseks alles liiga noored.
+a	01409581	0	0.25	niisamasugune;ühesugune;samane;samasugune	Neid tabas sama saatus. Jüri oli karjasena samasugune saamatu kui ta eelkäijagi.
+a	01513050	0	0.875	õudne;vastik;kole	Õudne ilm. Täna oli õudne päev: koosolek koosoleku otsa. Närvid on õudses seisukorras.
+a	01914930	0	0	määra-;hulga-;hulgaline;koguseline;kvantitatiivne	Kvantitatiivsed tunnused. Ainete kvantitatiivne suhe. Kvantitatiivne analüüs.
+a	01646941	0	0	nooreealine;noor	Noor seitsmeteistkümneaastane neiu. Meie jääme vanaks, noor põlvkond kasvab peale.
+a	00258411	0	0	servapoolne;servmine	
+a	00393683	0.25	0	intensiivne;ere	Intensiivne punane, sinine. Intensiivsemad värvitoonid.
+a	00708017	0.25	0.5	purunev;õrn;tundlik;habras	Kartul on tundlik öökülmade suhtes. Silmad on ereda valguse vastu tundlikud. Õrn materjal purunes näppude vahel. 
+a	02240006	0	0.625	viitane;viitaline;konar;jõnklik;rööpaline;rööpas;rööplik;nukiline;künkaline;künklik;rünklik;konarik;kühmuline;ebatasane;konarlik	
+a	02270342	0.625	0	elunäinud;elukogenud;elutark;kogenud	
+a	02722988	0	0	hädatarvilik;hädavajalik	Puhkus on sulle praegu hädavajalik.
+a	01332386	0.875	0	intellektuaalne;vaimne;mõistuspärane;mõistuslik	
+a	01907711	0.5	0.5	puhas;saastamata;saastumata	
+a	01089136	0.125	0	täistöökoormusega;põhikohaga;täiskoormusega	
+a	01751080	0	0.375	perfektne;veatu;täiuslik;ideaalne;täielik;laitmatu	
+a	00630802	0	0.5	mittevaraline;mittemateriaalne	
+a	00035368	0	0.625	pensionil olev;erusolev	
+a	00477284	0.125	0	õdus;komfortne;mõnus;hubane;kodune;mugav	
+a	00119006	0.375	0.25	eluvõimeline;vitaalne;elujõuline	Elujõulised pisikud. Elujõulised järglased. Maha pannakse ainult elujõulised ja terved kartulimugulad. 
+a	02132080	0.625	0	armu-;armuihaline;armuelamuslik;erootiline	
+a	02572823	0	0.25	metsakas;metsarikas;metsane	
+a	02239479	0	0.25	mõradega;pragudega;mõrane;lõheline;praguline	
+a	01942279	0	0.375	ebatõeline;ulmeline;unistuslik;mõttekujutuslik;ebareaalne;fantastiline	
+a	01729819	0	0.25	omaaegne;varemaaegne;ennistine;kunagine;endine	
+a	02250430	0.125	0	omaette;eraldi	Konutab omaette nurgas. Tüdrukud mängisid omaette. Lääne- ja Saaremaa moodustavad omaette kultuurivaldkonna. See on omaette jutt, mis siia ei puutu.
+a	00948670	0	0	sisene;sisemine	Impeeriumi sisemine olukord oli üsna ebastabiilne.
+a	01968033	0	0	ööpäevane	Ööpäevane energia-, kalorikulu. Ööpäevane vedelikuvajadus.
+a	00829656	0	0.75	toksiline;kihvtine;mürgine	
+a	01618376	0.625	0	mõistetav;arusaadav;selge	Seaduste keel peab olema üheselt selge. Professori loengud on selged ja süsteemipärased. 
+a	01444230	0	0	lühikene;lühike	Sinna tuleb kirjutada lühike vokaal.
+a	00306314	0.125	0	-jõuline;suutlik;suuteline;võimeline	
+a	02897158	0	0	ehituslik;struktuurne	
+a	01982957	0.75	0	austamisväärne;respektaabel;austatud;auvääriline;austamisväärt;auline;aulik;austusväärne;lugupeetav;auväärt;eminentne;kõrgeauline;auväärne;lugupeetud	
+a	01970777	0	0	tegev-;regulaar-;alaline	
+a	01191876	0	0	kerge	Kerged öökülmad. Kerge naeratus libises üle näo.
+a	00288498	0.25	0.125	väheväärtuslik;tühine;väike;tähtsusetu	Nii tühise asja pärast ei tasu vaielda. Esitati mõned tühised küsimused.
+a	01615180	0.25	0.125	neutraalne;erapooletu;objektiivne	Sündmuste erapooletu valgustamine. Asus erapooletule seisukohale. Kriitika oli erapooletu ja õiglane. 
+a	00120784	0	0	teadmata	
+a	01978532	0.5	0	ümberv ahetatav;asendatav;vahetatav	Vahetatavad masinaosad. Hõlpsalt vahetatav filterelement eemaldab kütusest mehaanilised osakesed.
+a	00074346	0.75	0.125	ehe;vahetu;loomulik;ehtne	
+a	00205295	0	0.125	häbitu;jultunud;südametunnistuseta;häbematu	
+a	02462883	0.625	0	uskuv;usaldav	
+a	00688947	0.75	0	siivas;sobilik;sünnis;kombekohane	
+a	01977155	0.625	0	teadlik	On kogu oma teadliku elu vabadust hinnanud.
+a	01778212	0	0	kehaline;somaatiline;keha-;lihalik;kehalik;füüsiline;ihulik;ihuline;ihu-	Poisi füüsilised eeldused on sportlasele sobivad. Füüsiline tarve liikuda. 
+a	00361837	0	0.25	kergemeelne;kerglane;riivatu;rikutud;ebavooruslik;kõlvatu;kombelõtv;liiderlik;paheline	Liiderlik naine, mees. 
+a	01632537	0	0	ametlik;ofitsiaalne	Ametlik tööaja algus. Ametlik asjaajamine. Dollari ametlik kurss. Kokkutuleku ametlik osa ning seltskondlik osa.
+a	01385255	0	0	hiiglasuur;tohutu;gigantne;hiiglaslik	Tekkisid hiiglaslikud õhukeerised.
+a	01258617	0	0	inimlik	Väidet kinnitab inimlik kogemus. Eksimine on inimlik. Inimlikust seisukohast arusaadavad soovid.
+a	02026312	0.375	0	maksevõimeline;maksujõuline;maksejõuline	
+a	01324131	0.125	0.375	hariv;õpetlik	
+a	01024597	0.125	0.25	kange;liikumatu;paindumatu;jäik	
+a	00541614	0	0	levinud	
+a	01374183	0.125	0.875	halastamatu;armutu;südametu;kalk	
+a	00304144	0.375	0.5	tormlev;mäslev;tormitsev;maruline	
+a	01875227	0.5	0	pealiskaudne;süvenematu;pinnapealne	
+a	02462489	0	0.75	ebaõige;väär;vale	Vale arvutus.
+a	01324424	0.5	0.125	haridus-;haridusalane;hariduslik	
+a	01649561	0	0.25	haavatav;õrn	Tüdruk on õrnas eas. Alustas iseseisvat elu väga õrnas eas.
+a	02356048	0.375	0	demonstratiivne;väljakutsuv	
+a	00405879	0	0.625	kahvatu;jumetu;plass;veretu;kalbe;kaame	
+a	02321009	0.5	0	tugev;jõuline	Näitleja jõuline hääl. Jõuline plahvatus. Jõulised lainelöögid murendasid kallast.
+a	01762839	0.25	0.375	lubav;salliv	Lähete foori lubava tule ajal üle tänava. Emal ei jäänud muud üle, kui olla lubav.
+a	01923118	0.125	0.375	liikumatu;vaikne	Jõe vool on siin hästi vaikne. Kultuurialases tegevuses oli tunda vaikset edasiminekut.
+a	02479492	0.125	0	harkjas;harklik	
+a	00758459	0	0	diplomaatiline	
+a	01950198	0.25	0.25	robustne;matslik;vulgaarne;labane	
+a	01868470	0.25	0.5	järeleaimamatu;jäljendamatu	Tema improvisatsioonid olid kõige leidlikumad ja kuulsad ülemised noodid jäljendamatud.
+a	01778935	0	0	kehaline;meeleline;aistlik;aistinguline;sensuaalne	
+a	02439949	0	0	tipmine;otsapoolne;otsmine	
+a	01062393	0	0	rippumatu;autonoomne;suveräänne;sõltumatu;prii;vaba;iseseisev	
+a	00336831	0.25	0.5	veendunud;kindel	 Ole päris kindel, midagi ei juhtu! Ma ei ole kindel, kas ma õigesti tegin. 
+a	00104825	0.25	0	nurga-;kodukootud;isehakanud	
+a	00514884	0.125	0	terviklik;terve;tükeldamata	Kartuliseemneks kasutati terveid mugulaid. Kompotis olid terved marjad. Lauale toodi terve siga.
+a	02131668	0.625	0	meelas;seksuaalne;himur	
+a	01144887	0.375	0	püstjas;jääras;järsakas;järsk	Rändrahnu üks külg on järsk, teine lauge. Mäe järsemast küljest on võimatu üles ronida. Haubitsa mürsul on järsk lennujoon.
+a	00658752	0.125	0.25	ühemõõtmeline;lineaarne;pikisuunaline;sirgjooneline	
+a	01508086	0.125	0.875	ebainimlik;armuheitmatu;toores;jõhker;brutaalne;julm;halastamatu;armutu;südametu;kalk	
+a	00047029	0	0	sõltlane;sõltuv	
+a	01201100	0	0	teisesooihar;heteroseksuaalne	
+a	01959294	0	0	reeglikohane;reeglipärane;regulaarne	Rangelt reeglipärane grammatika.
+a	00979031	0	0	viibimatu;kohene;viivitamatu	
+a	00245112	0	0	mustapäine;tumedapäine;tume	
+a	02128084	0	0	rändlev;reisiv;rändav;liikuv	
+a	00842324	0	0.5	karmikäeline;jõuline	
+a	00224731	0.25	0.625	salalik;salakaval	
+a	01077362	0.25	0.5	kuiv;külm;tundetu	Kuiv tuupimine. Kuiv faktide loetelu. Mis on kuivade arvude taga? Tuntud 
+a	01611839	0	0.75	ohutu;kahjutu	
+a	00725772	0	0.75	sõltuv;iseseisvusetu	Naine oli materiaalselt mehest sõltuv. 
+a	00122844	0	0	edukas;saavutusrikas;saavutusterohke;tulemusrikas	
+a	00834198	0.25	0.125	töötav;efektiivne;tõhus;mõjuv;tagajärjekas	
+a	02232739	0	0	sirge;klatt;kortsudeta;sile	
+a	01614372	0	0.5	paindumatu;jäik;isepäine;põikpäine;kangekaelne	
+a	02180157	0.5	0.125	ausameelne;aus	Ta on täiesti, läbini, üdini, kristalselt aus inimene.
+a	01721059	0.125	0	andestatav;vabandatav	
+a	01382086	0.25	0.125	suur	Suured veoautud tõkestasid tee.
+a	00365261	0	0.625	rusuv;ängistav;tume;nukker;sünge	Pähe tükivad ainult tumedad mõtted. Tume aimus laskus südamele. Hinges tõstab pead tume kahtlus. 
+a	00915321	0.75	0	täpne;matemaatiline	Matemaatiline täpsus, korrapärasus.
+a	01868724	0	0	pädev;professionaalne	
+a	00111129	0	0	süntees-;sünteesiv;sünteetiline	
+a	02399014	0	0.25	hapu	 Hapu vein. Suus oli maomahla hapu maik. 
+a	01814385	0	0	poliitiline	
+a	01218548	0	0	mitmekorruseline	Mitmekorruseline elamu.
+a	02141298	0.25	0.375	moondunud;moonutatud;demorfne	
+a	02343517	0.875	0	kvaliteetne;täisväärtuslik;korralik	
+a	01551461	0.375	0.375	printsiibitu;põhimõteteta;põhimõttelage	
+a	00100881	0	0	tähestik-;alfabeetiline;tähestikuline	
+a	00747910	0	0.75	range;karm	Tegi läbi karmi elukooli. Ka karmi tõde ei tohi varjata. 
+a	00438166	0	0.625	mahe	Laualambi mahe valgus. Mahe kuuvalgus. Puude mahe rohelus.
+a	01398199	0.25	0	tihe;pidav;kindel;püsiv	
+a	01800349	0.625	0.125	sümpaatne;kena;meeldiv	
+a	00854989	0.5	0.25	plahvatusohtlik;laetud;elektriline;hingetu;pingeline;pingne;pinev	
+a	01796109	0	0	sämpjas;siksakiline;tagiline;tipmeline;sämbuline;sakmeline;sakiline	
+a	00029343	0	0	kasuahne;saamahimuline;ahne	
+a	00772910	0.625	0	tähelepandamatu;märkamatu;pealetükkimatu;diskreetne	
+a	01233104	0.25	0	ühetasane;ühtlane;tasane	
+a	01786133	0	0	-kirja;kirjaline;kiri-;kirjatud;mustriga;mustriline	
+a	01119421	0	0	klaaslibe;hiilas;libe;kiilas	
+a	00331030	0	0	keskmine;kesk-	Akna keskmine ruut. Pea kolmest mehest keskmist silmas! 
+a	00510644	0.5	0	mõjukas;mõjurikas;mõjuv	
+a	01040410	0.125	0.5	meeldesööbiv;meeldejääv;mälestusväärne;kustumatu;unustamatu	
+a	00220956	0	0.375	peletislik;eemalepeletav;peletu;ilutu;näotu;inetu;kole	
+a	00419289	0	0.75	must;topane;ebapuhas;räpane;määrdunud;kasimata	
+a	02113191	0.75	0	tervishoidlik;hügieeniline	
+a	01711071	0.125	0.75	piinaline;valuline;valulik;valus;piinarikas	Haavakoht on veel valulik. Kõhupiirkond oli komplemisel valulik. Gripihaigel on silmad valulikud.
+a	00266985	0.375	0.375	nõrk;iseloomuta;lõtv;tahtetu;selgroota;tahtejõuetu	
+a	01635146	0	0	traditsiooniline;kindlakskujunenud;tavapärane;harjumuspärane	
+a	01925372	0.375	0	ratsionaalne;otstarbekas;tõhus;põhjendatud;mõistlik	
+a	00313387	0	0	karnivoor;lihasööja;lihatoiduline	
+a	01722965	0.625	0	kallutatud;mitteobjektiivne;ebaobjektiivne;erapoolik;subjektiivne;isiklik	
+a	03000110	0	0	kapitalistlik	
+a	02301338	0	0.375	näljane;söömata;näljas	
+a	01561771	0	0	liikuv	Poiss hüppas liikuvale rongile.
+a	02374914	0.375	0.25	sümpaatne	
+a	00520214	0	0	terviklik;komplektne;tervikuline;täielik	
+a	01366718	0.25	0.625	ülemeelik;peiarlik;lustiline;lustakas;rõõmus;meeleolukas;rõõmurohke;rõõmurikas;rõõmukas;tujuküllane;lustlik;lõbus	
+a	02335828	0.125	0.75	jagus;küllaldane;piisav	
+a	02103481	0	0	ülitundlik;vastuvõtlik;sensitiivne;tundlik	
+a	00770480	0	0	direktne;otsene;vahetu	
+a	00412788	0.25	0	barbarlik;mittekultuurne;barbaarne;metsik;ebakultuurne	
+a	02526925	0.625	0	palutud;oodatud;tahetud;soovitud	
+a	02012157	0.5	0.5	hirmus;hirmuäratav;kohutav	Nägin kohutavat und. Kõige kohutavam katastroof.
+a	00209620	0	0	rohune;rohurikas;rohukas	
+a	01905653	0.375	0.125	puhas;rikkumata	Must 'piima v. kooreta' kohv. Must leib 'rukkileib'.
+a	02283703	0	0.25	suusõnaline;suuline	
+a	00506852	0.375	0.375	hellatundeline;õrnatundeline;õrnahingeline;hellahingeline;õrn;tundlik	
+a	00486290	0.375	0.125	tavaline;keskmine;lihtne;keskpärane	
+a	00044353	0	0.25	potentsiaalne;võimalik;arvatav	Kas igaühes peitub potentsiaalne kurjategija? Uue ajalehe potentsiaalne lugeja. Saage tuttavaks, see on minu potentsiaalne ämm.
+a	00064787	0.625	0	hea;väärtuslik;kasulik	 Tegi abiellumisel päris hea partii. Vitamiinid on väsimuse vastu head.
+a	02511528	0.25	0.25	sõge;meeletu;metsik;pöörane	
+a	01277426	0.375	0	peamine;põhiline;esmatähtis;primaarne	Mis on elukutsevalikul esmatähtis? 
+a	01801029	0.5	0.25	nauditav;meeldiv	
+a	01745946	0.5	0.125	arusaav;mõistja;arusaaja;mõistev	
+a	02540458	0	0.375	palumatu;ootamatu;soovimatu	Ta oli soovimatu laps. Tüdrukut ehmatasid ootamatud külalised.
+a	01993140	0.5	0	austamisväärne;austamistväärt;auvääriline;austusväärne	Austusväärsed inimesed. Vana austusväärne Wiedemanni sõnaraamat.
+a	00304949	0	0.625	marune;pöörane;raevukas;rajune	Raevukad lained. Tuisu raevukas ulgumine.
+a	00733406	0.625	0	meeleline;seksikas	
+a	02436995	0.125	0.5	paindumatu;kõigutamatu;kompromissitu;järeleandmatu;jäik	
+a	00487525	0.25	0.125	tavaline;normikohane;normis;normaalne;harilik;loomulik	
+a	00566099	0	0	seostatud;seotud;ühendatud	
+a	01263013	0	0.625	toores;jõhker;brutaalne;julm;halastamatu	
+a	02842445	0	0	keele-;keelealane;keeleline	
+a	01040239	0.5	0	unaruses;unustusehõlmas;unustatud	
+a	01574259	0	0	füüsiline	Füüsiline maailm. Seadmete füüsiline kulumine. 
+a	01664455	0.625	0	sangviiniline;optimistlik	Sangviiniline inimene. Sangviiniline temperament.
+a	02423073	0.5	0	hoolitsetud;klanitud;korralik	
+a	02446651	0	0.25	pehme	Liha polnud ahjus pehmeks küpsenud.
+a	02314584	0	0.375	sirge;otse	
+a	02274089	0.5	0.125	stabiilne;muutumatu;püsiv	Säästude stabiilne kasv. Stabiilne riik. Elu tundus olevat stabiilne. 
+a	01568375	0	0.5	internatsionaalne;rahvusvaheline	
+a	00082241	0.5	0	sõjakas;ründav;räige;vägivaldne;agressiivne	
+a	01335458	0.75	0	ergas;terane;ärgas;taiplik;taibukas;nutikas	
+a	01270004	0.25	0.25	janune	
+a	01692969	0	0	väline;välis-;väljaspoolne;välimine	
+a	00510348	0.125	0	korralik;väärt;tubli	
+a	00489108	0.125	0	tavaline;lihtlabane;tava-;proosaline;harilik	
+a	01083157	0	0	täidetud;täis	
+a	01452593	0.375	0.125	tugev;kõva;vali	Jutuajamine läks kord-korralt valjemaks. Vareste kõva kraaksumine kostis kaugele. 
+a	00575230	0.25	0.375	vabameelne;liberaalne;salliv	Mõni õpetaja on hindamises liiga liberaalne.
+a	00685924	0.5	0.125	stoiline;kindlameelne;meelekindel;kindel	
+a	02230990	0	0	kare	Kivi pind oli kare. Karedamad paberisordid. Tööst karedad käed. Näonahk on külmaga karedaks läinud.
+a	01535082	0.25	0	ekstreemne;äärmuslik;ekstremistlik	
+a	00005205	0.5	0	jäägitu;absoluutne;täielik	
+a	01951197	0.25	0.25	rohmakas;mühaklik;tahumatu;mühakas	
+a	01439496	0	0	muutumatu;kestev;püsiv	Lõi naabrinnaga püsivad suhted. Tingitud refleksid on koeral väga püsivad. 
+a	02338615	0.625	0	ülem	Ülemad ja alamad ametnikud. Ta arvas, et küll ülemal pool asjast aru saadakse, kui palvekiri läkitada.
+a	00619601	0.125	0	poolkõva;vintsakas;rahkjas;kõvavõitu;poolkeenud;pooltoores;vintske	Vana looma liha on tuim ja vintske. Järas vintsket kamarat.
+a	00490413	0.375	0.25	isesugune;erisugune;erinev	Erinevate inimeste grupp
+a	00124353	0	0	maritiimne;mariinne;mereline	
+a	00403982	0	0	kime;läbilõikav;kriiskav;kile;terav	
+a	01212469	0	0.25	madal	Lina hinnad olid madalad. Madal laenuprotsent. Korteriüür on meil madal.
+a	01133374	0.125	0.75	põrgulik;kurivaimlik;saatanlik;deemonlik;kuratlik	
+a	02756346	0	0	kohapealne;lokaalne;paiklik;paikne	
+a	01570747	0	0.25	vägivaldne	Mässu vägivaldne mahasurumine. Suri vägivaldset surma.
+a	01510444	0.25	0.25	intensiivne;kange;tugev;kõva;vali	Kange sajuga ei läinud keegi majast välja.
+a	01569965	0.25	0	loomukohane;loomuomane;loomupärane;loomulik	
+a	01263971	0	0.625	külmavereline	Külmavereline tapja, mõrvar, mõrv.
+a	01797862	0.125	0.375	plaanipäratu;plaaniväline;mitteplaaniline	
+a	00249721	0.5	0.125	riskiv;hulljulge;riskeeriv;riskivalmis	
+a	01911053	0	0	väljaõppinud;kvalifitseeritud	Kvalifitseeritud tööjõudu napib. Tema naine — kvalifitseeritud operatsiooniõde — on samas isikus ka koristaja.
+a	01548193	0.625	0.125	puhas;eetiline;moraalne;kõlbeline;laitmatu	
+a	02310895	0	0.125	sirge;tikksirge	
+a	01509527	0.125	0.25	intensiivne;äge;aktiivne	Pariisis oli kunstielu palju intensiivsem kui mujal Prantsusmaal. Mägedes oli päike palju intensiivsem.
+a	00829745	0.5	0.125	erudeeritud;haritud	
+a	02273326	0.75	0	terve;rikkumata;vigastamata;veatu	
+a	02565583	0.5	0	rõõmus;õnnelik;hea	See oli väga hea, et ta sind ei märganud!
+a	02569130	0.625	0	intelligentne;arukas;tark	
+a	02403206	0	0	tihe;pingul;pingutatud;pinguletõmmatud;pingulolev	Kuulajate peade kohal oli pinguletõmmatud köis, mida mööda pidi hakkama kõndima. Peale sauna on nahk väga pingul.
+a	01502195	0.5	0	muusikaline;viisirikas;meloodiarikas;meloodiline	Meloodiline muusika (EKSS).
+a	00838533	0.5	0	hõlbus;ladus;lihtne;kerge	
+a	02248349	0	0	sotsiaalne;seltsiv	Seltsivate inimestega on kerge suhelda.
+a	01725712	0.375	0.375	tuline;kirglik;äge	
+a	01941274	0.625	0	loomutruu;tõsi-eluline;elulähedane;tõetruu;elutruu;tõepärane;eluline;realistlik	
+a	00539009	0	0	kokkusurutud;tihe;tiivis;tihke;kompaktne	Kompaktsed kivimid. Okaspuudel on kompaktsem võra kui lehtpuudel.
+a	02557357	0.625	0.125	terve;tervislik	
+a	02071420	0.375	0.25	samalaadne;sarnane	Majad uues linnaosas on äravahetamiseni sarnased. Ta on vennaga võrdlemisi sarnane. 
+a	01880531	0	0.625	ebakohane;kohatu;sobimatu;ebasobiv;vale	Tegu ise oli inetu, veelgi kohatum sellega hooplemine. Olnuks vist kohatu neid nende leinas tülitada. 
+a	00490035	0.125	0.625	ebatavaline;kujutlematu;kujuteldamatu;pretsedenditu;ilmkuulmatu;sõnulväljendamatu;sõnulkirjeldamatu;hullupöörane;kirjeldamatu;sõnulseletamatu;senikuulmatu;seninägematu;ennenägematu;enneolematu;ennekuulmatu;tavatu;imekspandav;ebaharilik	
+a	01551026	0	0.625	keelatud;lubamatu	Keelatud vili on kõige magusam.
+a	02260035	0	0	tahke	Tahke ja sulametall (EKSS).
+a	02002580	0	0.5	kinnine;suletud	
+a	01932973	0	0	tõeline;tõelik;tegelik;päris	
+a	00993885	0	0	surma-;tappev;surmatoov;surmav	
+a	02520219	0.375	0.25	priitahtlik;vabatahtlik	
+a	01908539	0	0.125	ebaehtne;tehtud;võlts;vale	Turult võis saada vale raha. Võlts kaalumine.
+a	01661289	0.375	0	hea;sobiv;õige	On paras aeg kartulid maha panna.;Õige aeg tomatid maha panna. On alati õigel ajal õiges kohas. Ma pole täna õiges vormis. Viski ja sooda tuleb segada õiges vahekorras. 
+a	02099442	0	0	allaheitlik;alistuv;ennastohverdav;ennastsalgav;ohvrimeelne	
+a	01517921	0	0	kodaniku-;tsiviil-;tsiviilne;era-	
+a	02500884	0	0	väärtuseline;hindamatu;väärtuslik	Jahiretkedel on koer küti abilisena hindamatu. 
+a	02132967	0.375	0	lihahimuline;kiimaline;tiirane;himur	
+a	02217452	0	0	binaarne;binaar-;kahend-	
+a	01171076	0.875	0	pingul;sitke;prink;prinkis	
+a	01369663	0.625	0	õiglustundeline;õiglane	
+a	00972902	0	0	modernne;moekas;moodne	
+a	02514543	0	0.75	pilav;jumalavallatu	Jumalavallatu raamat, jutt, laul. 
+a	02416285	0	0	kreemjas	Kreemjas segu. (EKSS)
+a	02282651	0	0	pidamatu;pidurdamatu;taltsutamatu;tagasihoidmatu;ekspansiivne;talitsematu;impulsiivne	
+a	00085630	0.25	0.5	tundeline;emotsionaalne	
+a	01462324	0.5	0	armastatud;kallis;armas	
+a	02230581	0	0	verbaalne;sõnaline	
+a	01705418	0.5	0	varjamatu;silmanähtav;avalik	
+a	02302187	0.125	0	ühtlane;muutumatu	Kogu päeva oli maanteelt kuulda ühtlast mootorimüra.
+a	01400562	0	0	legitiimne;õiguspärane;seaduspärane;lubatud;legaalne;seaduslik	
+a	00359459	0.5	0.125	humaanne;halastaja;armuline;armulik;armuheitlik;halastav;leebe	
+a	01537448	0	0.125	keskaegne	Vanalinn on säilitanud keskaegse ilme.
+a	01315844	0	0	kaasasündinud;sünnipärane;loomulik	
+a	00488857	0.125	0	eksootiline;ebatavaline	Eksootiline romaan, luule. Eksootilised maalid.
+a	01842963	0	0	järelemõeldud;kaalutud;kaalutletud;läbimõeldud	
+a	00286578	0.5	0	avarapilguline;laiahaardeline	
+a	00545015	0.25	0.25	vastutustundetu;hooletu;ükskõikne;hoolimatu	
+a	00669138	0	0.75	igandlik;iganenud;aegunud;vananenud	
+a	01662756	0	0	vastasrindlik;vastutöötav;vastuolev;opositsiooniline	
+a	01907103	0	0.875	puhas;läbipaistev;selge	Kui kosmos on must ja õhk läbipaistev, siis miks on taevas sinine? Sellise marineerimise puhul jääb marinaad läbipaistvaks ja värvituks. See oli mingi tundmatu päritoluga läbipaistev vedelik. 
+a	00362467	0.75	0	rõõmus;rõõmutoov;elurõõmus;lõbus;elav	Elurõõmsad silmad. Väga elurõõmus ja optimistlik teos. Antiikmaailma elurõõmus kultuur.
+a	01451768	0.125	0.5	õnnistatud;õnnis	Usk teeb inimese õndsaks. Õndsaks saadakse usu kaudu. Õnnis elu taevariigis.
+a	01924316	0.125	0	juhuslik	
+a	01625063	0	0.75	ebameeldiv;vastumeelt;vastukarva;vastik;vastumeelne;antipaatne;ebasümpaatne	
+a	00170847	0.375	0	kõikevõitev;nõiduslik;kütkestav;lummav;külgetõmbav;ligitõmbav;šarmantne;sarmikas;hurmav;paeluv;veetlik;köitev;võluv;veetlev	
+a	00791227	0	0	suurem;rõhuv;valdav;dominantne;juhtiv;valitsev;domineeriv	
+a	00191603	0	0.25	teadvustamatu;teadmatu;alateadlik;mitteteadlik;ebateadlik	
+a	01837744	0.75	0	täpne;range;kõrvalekaldumatu	
+a	00279092	0.375	0	kumav;kume;helendav	
+a	01800169	0	0.5	ebatõepärane;väheusutav;ebausutav	
+a	01049462	0	0.875	õnnetu;ebaõnnestunud	See oli sul küll õnnetu mõte. Unustame selle õnnetu loo. Pidi see õnnetu artikkel just nüüd ilmuma! 
+a	02397732	0	0	terav;vürtsikas;vürtsine;teravamaitseline;krehvtine	Üsna krehvtine naps (EKSS).
+a	00956131	0.625	0	õiglane;aus	Õiglane kohtunik, karistus. Ta oli minu vastu õiglane.
+a	00656132	0.125	0	määrav;otsustav	Otsustav murrang sõja käigus. Temaga tuleb midagi otsustavat ette võtta.
+a	00763901	0	0	sirgjooneline;otsekohene;avameelne	
+n	01006188	0	0	mammograafia	
+a	01614778	0	0.125	pealetikkuv;pressiv;pealetükkiv	
+a	00802844	0	0	teritatud;terav	
+a	01103021	0	0	eritine;eripärane;eriomane;spetsiifiline;eri-	Klooril on spetsiifiline lõhn. Tuberkuloosi puhul sugenevad spetsiifilised haavandid. Komi keele spetsiifilised häälikud.
+a	02847370	0	0	dooria stiil;dooria order	
+a	01067193	0	0.625	harvaesinev;harv;erakordne;haruldane	
+a	00116245	0	0.25	tulivihane;maruvihane;verine;raevukas	
+a	01423676	0.625	0	elamiskõlblik	See maja pole enam elamiskõlblik.
+a	02370329	0.125	0.75	ettenägemata;etteaimamata;mitteaimatav;aimamatu	
+a	01851916	0.625	0	tähelepandamatu;silmatorkamatu;märkamatu;lihtne;tagasihoidlik	Loodusvaatleja püüab olla tähelepandamatu. (EKSS)
+a	02158826	0	0	pime	Oma elu viimastel aastatel oli ta päris pime. 
+a	01827946	0	0.5	mannetu;abitu	
+a	00631391	0.625	0	tõene;õige	Õige vastus
+a	02558767	0.375	0	ökoloogiline;öko;orgaaniline;mahe;looduslik	
+a	02369869	0	0.25	müre;tilgastanud	
+a	02408011	0.125	0.5	pingevaba;sundimatu;lahe;loomulik	
+a	01845451	0	0.5	improviseeritud;ettevalmistamata;spontaanne	See rünnak oli spontaanne enesekaitse. Võimleja liigutused muutusid ajapikku spontaansemaks. Tegime spontaanse ärasõiduotsuse kohe ka teoks.
+a	02551380	0	0.25	kuiv	Kaev on juba teist aastat kuiv.
+a	01199751	0.375	0	ühtne;ühtlik;homogeenne;ühtlane	
+a	01243373	0.25	0.125	jahe;külm;ebasõbralik	Kuulas mind külma näoga ära. Külma südamega inimene. Ma ei suutnud jääda külmaks pealtvaatajaks. 
+a	00566342	0	0	kõrval-;naaber-;külgnev;piirnev	
+a	00919155	0	0.375	peruvõitu;perukas;peru;tuisakas;taltsutamatu	
+a	01044240	0	0.25	mitteametlik;sundimatu;vaba	
+a	01327925	0	0	integreeritud;ühendatud	Integreeritud köögimööbel. 
+a	00357556	0	0	karakteristlik;tunnuslik;karakteerne;iseloomulik;tüüpiline	See on talle nii tüüpiline! Saaremaale iseloomulikud kadakad ja kiviaiad.
+a	02403671	0.125	0.5	lodev;lõtv	Raugalikult lõtv nahk. Ohjad on lõdval, hobune läheb omapead.
+a	01895099	0.25	0	majanduslik;ökonoomne;hoidlik;säästlik;kokkuhoidlik	
+a	01444022	0	0	pikk	Esimese, teise silbi pikk vokaal.
+a	00112231	0	0	arutlev;analüüsiv;analüüsivõimeline	
+a	00659715	0	0.125	ühedimensiooniline;ühemõõtmeline	
+a	02422685	0.625	0	tipp-topp	Maja on vana, ent veel üsna tipp-topp. Linnaossa ehitati tipp-topp spordisaal. Oma kõrge ea kohta on taat täiesti tipp-topp.
+a	00116940	0.375	0.25	vihkav;vimmas	
+a	00984333	0	0.375	snooblik;peps;peenutsev;saksik;peen	
+a	02950711	0	0	üldkavaline;strateegiline	Turunduse strateegiline planeerimine. Tuumalaenguga strateegilised raketid.
+a	00179925	0	0	konstitutsiooniline;põhiseaduslik	
+a	01403760	0	0.625	keelatud;keelustatud;keelualune;seadusvastane;ebaseaduslik;illegaalne	
+a	02053818	0	0	pühitsetud	Ta oli pühitsetud pastor.
+a	02751058	0	0	joonia stiil;joonia order	
+a	00287640	0.125	0.125	kitsarinnaline;väiklane	
+a	00386392	0.25	0.375	akromaatiline;värvusetu;värvitu	Puhas vesi on värvitu ja maitsetu.
+a	02038891	0.5	0.5	raudne	 Ilma raudse distsipliinita pole sõjaväge. 
+a	02297166	0.125	0.875	mittestandardne;ebastandardne	
+a	01081592	0.25	0	generatiivne;suguline	Generatiivne paljunemine. Maasikate generatiivne paljundamine.
+a	02988060	0	0	natsionaalne;rahvus-;rahvuslik	
+a	01468097	0.875	0	headtegev;õnnetoov	
+a	01088351	0	0	tühi;piisatu;tilgatu	
+a	00096239	0	0.5	kahvatu;jumetu;plass;veretu;kaame	Ebatavaliselt, läbipaistvalt, haiglaselt kahvatu.
+a	00045123	0	0.375	krooniline	Südame ja veresoonte krooniline puudulikkus.
+a	00505853	0.375	0	ebatavaline;unikaalne;kordumatu;mittetavaline;erakordne;ainulaadne;mitteigapäevane;tavatu;ebaharilik;ainukordne	Ebatavaline elamus, sündmus, vaatepilt.
+a	01070321	0	0.625	traanine;rääsunud	Traanine tünn.;Õhu ja päikesevalguse käes õli pakseneb, omandab rääsunud lõhna ja tugevalt mõrkja maitse. Veidi hiljem avaldub piima rääsunud maitse ja ebameeldiv lõhn.
+a	02735208	0	0	geomeetriline	
+a	00097147	0	0	mitteolev;olematu	
+a	00523786	0.625	0	valus;ränk;piinarikas;kibe;raske	Tuleb kuidagi läbi ajada, ajad on rasked.
+a	01198737	0	0.625	kirju;kirev;mittehomogeenne;heterogeenne;ühtlusetu;mitteühtlane;ebaühtlane	
+a	02443907	0	0	troopika-;troopiline	Vaikse ookeani troopilised saared. Troopilised vihmametsad. Troopiline floora. Troopilised õhumassid. Troopiline öö. Lausa troopiline kuumus.
+a	00548781	0.125	0.125	laialivalguv;segane;ebaselge	
+a	02506555	0.125	0.375	mitmepalgeline;eripalgeline;mitme-;mitmekesine;mõnesugune;mitmesugune;kirev	

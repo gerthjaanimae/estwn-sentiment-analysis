@@ -1,0 +1,918 @@
+#Sõnad, kus sentiwordnet ja eki emotsioonidetektor lähevad vastuollu.
+#wordnetis positiivsed, aga ekis neutraalsed.
+a	560900	0.75	0	dom neutr	seltskondlik;sotsiaalne	nii iseloomustatakse inimest, kellele meeldib (mittetuttavate) inimestega suhelda
+n	5757234	0.75	0	dom neutr	mõistmine;oskamine;valdamine;valdus	
+n	5955323	0.75	0	dom neutr	põhimõte;printsiip	kedagi mingis tegevuses, toimimises juhtiv, suunav mõte, juhtmõte
+n	10676018	0.75	0	dom neutr	ülemus;ülem;šeff	kõrgema positsiooniga töötaja
+a	2100566	0.625	0	dom neutr	ülem	ameti- v. teenistusastmelt, sotsiaalselt positsioonilt vm. suhtes kõrgemal seisev
+r	64691	0.625	0	dom neutr	täpselt;minutipealt;õigeaegselt;punktipealt;parasjagu;punkt;punktipealselt	(AEG) täpsel ajal; nii õigel ajal, kui võimalik
+n	7480068	0.625	0	dom neutr	emotsioon;tundmus;tundeelamus;tunne	(lühiajaline) tugev tunne
+n	5154517	0.625	0	dom neutr	aktiva;vara	ettevõttele v. isikule kuuluv vara (hooned, kaubad, materjalid jne.)
+n	14546432	0.625	0	dom neutr	vorm	treenitusest, tervisest jm. tingitud üldine seis(und), (sportlase) jõudlusvõime teat. hetkel; hea kehaline v. vaimne seis(und) (EKSS)
+v	839834	0.625	0	dom neutr	liialdama;üle pakkuma;paisutama;suurendama	midagi ülepakutult, paisutatult esitama v. kujutlema
+a	2385102	0.5	0	dom neutr	pikk;pikakasvuline	kasvult kõrge
+a	2119971	0.5	0	dom neutr	mõtlik	nii iseloomustatakse inimest, kes on tõsise meelelaadiga, mõttesse vajunud
+a	2421158	0.5	0	dom neutr	kokkuhoidlik;säästlik;hoidlik;ökonoomne;majanduslik	nii iseloomustatakse inimest, kes oskab majandusasjades olla tagasihoidlik, säästev
+a	1673946	0.5	0	dom neutr	banaalne;omapäratu;trafaretne;triviaalne;labane;üldtuntud;šabloonne;standardne;odav;äraleierdatud;kulunud;maotu;tavaline;harilik	
+a	1933731	0.5	0	dom neutr	reaalne;tegelik;tõeline;tõsieluline;praktiline;esemeline;materiaalne;aineline	
+a	1618053	0.5	0	dom neutr	ilmne;selge;ilmselge;silmnähtav;endastmõistetav	
+a	2858816	0.5	0	dom neutr	isiklik	teat. isikule omane
+n	5564590	0.5	0	dom neutr	käsi;labakäsi;käelaba	inimese v. ahvi ülajäse randmest sõrmeotsteni
+n	5749619	0.5	0	dom neutr	maitse	esteetiliste väärtushinnangute kogum, sellel rajanevad arusaamad ilust jms
+n	7486229	0.5	0	dom neutr	soov	millegi puuduolemisest tulenev tunne
+n	14049711	0.5	0	dom neutr	tervis;tervislik seisund	organismi (füsioloogiline) seisund
+n	7903841	0.5	0	dom neutr	konjak	viinamarjamahla kääritamisel ning destilleerimisel saadav kange alkohoolne jook
+n	10444194	0.5	0	dom neutr	luuletaja;poeet;salmija;luular	luuletusi loov kirjanik
+n	15269513	0.5	0	dom neutr	intervall;vahemik;ajavahemik	ajaperiood, mis on märgitud kahe momendiga
+n	6519846	0.5	0	dom neutr	bussipilet	pilet, mille alusel võib bussis sõita
+n	13931765	0.5	0	dom neutr	seksuaalvahekord;vahekord;suguline vahekord;kepp	
+n	3574816	0.5	0	dom neutr	kutsikas;koer;kuersi;libinits	puust, sarve(tüki)st või kautšukist võrgukudumisvahend
+n	3574816	0.5	0	dom neutr	liiv;liim	(endisaegne) prismataoliselt puuraamile tõmmatud võrkpüünis kalapüügiks madalas vees
+a	489491	0.375	0	dom neutr	harjumuslik;harjumuspärane;tavakohane;tavapärane;harjunud;konventsionaalne;rutiinne;sissejuurdunud	
+n	4723816	0.375	0	dom neutr	põhijoon;tunnus;tunnusjoon;joon	millelegi v. kellelegi olemuslikult v. tüüpiliselt kuuluv omadus
+n	39297	0.375	0	dom neutr	kontakt;kokkupuude	kellegagi lähedases kokkupuutes olemine või tegutsemine
+n	9787534	0.375	0	dom neutr	saadik	riigi diplomaatiline esindaja teises riigis
+n	4669247	0.375	0	dom neutr	vastutus;vastutavus	oskus v. vajadus oma tegusid seletada v. olla oma tegude eest vastutav
+n	5677504	0.375	0	dom neutr	tunne;taju;tunnetamine;tajumus	üleüldine teadlik tunnetus
+n	10309496	0.375	0	dom neutr	tark;tarkpea;nupumees;aju	selge, terava mõistusega, lahtise peaga, rohkete vaimuannetega, arukas, taibukas; intelligentne inimene (EKSS)
+n	9893191	0.375	0	dom neutr	kapten	
+v	2107588	0.375	0	dom neutr	arvama;ära arvama;mõistatama	millegi põhjal aimama v. ennustama
+v	2674879	0.375	0	dom neutr	kordama	mingis suhtes samasugune olema
+a	2040652	0.25	0	dom neutr	ümar;ümmargune;ümarik	kerajaja kujuga
+a	840212	0.25	0	dom neutr	majanduslik;ökonoomiline;ökonoomne	
+a	2419434	0.25	0	dom neutr	mõtlik;mõttes;mõtetes	
+a	1884353	0.25	0	dom neutr	tulevikuline;tuleviku-;homne	
+a	1410606	0.25	0	dom neutr	sarnane;samalaadne	välimuses v. mingis muus suhtes rohkete ühetaoliseks tegevate ühisjoontega
+a	1652902	0.25	0	dom neutr	avalik	
+n	24720	0.25	0	dom neutr	seisund;seisukord;seis;olek	viis, kuidas miski või keegi on oma põhiliste omaduste ja väliste tingimuste suhtes
+n	13541167	0.25	0	dom neutr	töötlemine;töötlus;protseduur	millegi ettevalmistus v. läbi viimine kindla kava järgi
+n	6520944	0.25	0	dom neutr	leping	õigusi ja kohustusi tekitav, muutev v. lõpetav hrl. ametliku dokumendina vormistatud kokkulepe isikute, organisatsioonide, asutuste jne. vahel
+n	7136206	0.25	0	dom neutr	dialoog;kahekõne	kõnelus kahe v. mitme isiku vahel
+n	24720	0.25	0	dom neutr	järg;olukord;seisund	majanduslik kindlustatus, heaolu
+n	6207029	0.25	0	dom neutr	arvamus;hinnang;hoiak;vaade	suhtumislaad kellegi suhtes
+n	7675627	0.25	0	dom neutr	vorst	maitsestatud ja hakitud liha topitud mingisse kesta
+n	4490091	0.25	0	dom neutr	veoauto;krusa	sõiduk, mis saab asju transportida;(kõnekeeles)
+n	24720	0.25	0	dom neutr	olek	olendi hingeline v. kehaline seisund
+n	5813457	0.25	0	dom neutr	iseasi;iselugu	eri, omaette või eraldi olev
+n	14662574	0.25	0	dom neutr	mineraalmuld;muld	muld, mille koostises on ülekaalus mineraalsed osised (EKSS)
+n	24720	0.25	0	dom neutr	režiim;olek;töörežiim	(seadmel, masinal vms.:) töötamise, toimimise tingimused
+n	24720	0.25	0	dom neutr	seis	teat. hetke olukord milleski (EKSS)
+n	24720	0.25	0	dom neutr	seisund;haigusseisund	olendi tervisest jm. teguritest tingitud olek teat. ajahetkel; millegi olek, seis teat. ajahetkel (EKSS)
+n	24720	0.25	0	dom neutr	olek	probleemi hetkekirjeldus ühes ta lahendamise järkudest
+n	7136206	0.25	0	dom neutr	vestlus	dialoogil põhinev õppemeetod
+n	93874	0.25	0	dom neutr	päästeamet	haldusüksuses päästeteenistust korraldav asutus
+n	3425092	0.25	0	dom neutr	tankla;bensiinijaam	teenindusettevõte autode jt. sõidukite tankimiseks (EKSS)
+n	6399995	0.25	0	dom neutr	paragrahv	iseseisvat küsimust käsitlev väiksem jaotus raamatus (hrl. peatüki alljaotus) (EKSS)
+n	5618056	0.25	0	dom neutr	pööning	piltlikult pea, aru, mõistuse kohta
+v	2397637	0.25	0	dom neutr	tõstma;kõrgendama;edutama;ülendama	vastutusrikkamale tööle v. kõrgemale ametikohale paigutama
+v	1319193	0.25	0	dom neutr	kammima	mingit maa-ala tihedalt, põhjalikult läbi otsima
+a	801691	0.125	0	dom neutr	kandiline	mitme (enam-vähem) kantis tahu v. nurgaga (EKSS)
+a	2169591	0.125	0	dom neutr	piklik;pikergune	laiusest pikem, pikavõitu
+a	2440617	0.125	0	dom neutr	ülemine;üla-	
+a	1304570	0.125	0	dom neutr	informatiivne;teatav;informatsiooniline;informeeriv	
+a	2217241	0.125	0	dom neutr	kahekordne;topelt-;kaksik-;dupleksne	
+a	1674242	0.125	0	dom neutr	argine;argi-;argipäevane;igapäevane;tavaline;proosaline	
+a	2577734	0.125	0	dom neutr	materiaalne;aineline;varanduslik;majanduslik;varaline	
+a	667079	0.125	0	dom neutr	praegune;käesolev;käimasolev;jooksev	
+a	2468635	0.125	0	dom neutr	tüüpiline;iseloomulik;karakteerne;tunnuslik;karakteristlik	eristava tunnuse kohta
+a	1779986	0.125	0	dom neutr	vaimne;mõistuslik;intellektuaalne;mõistuspärane	
+a	24417	0.125	0	dom neutr	oma;omane	väga tuttav, millegi poolest lähedane
+a	1036083	0.125	0	dom neutr	kohalik;paikkondlik;kohapealne	
+a	406867	0.125	0	dom neutr	värviline;mitmekesine;kirju	
+a	445937	0.125	0	dom neutr	sügav	eesmisest pinnast v. alast pikalt sisse- v. tahapoole, kaugemale ulatuv
+a	486990	0.125	0	dom neutr	sage;tavaline;sagedane	tihti esinev
+a	489863	0.125	0	dom neutr	tavapärane;harilik;tavaline;harjumuspärane	
+a	1279735	0.125	0	dom neutr	strateegiline;üldkavaline	strateegiasse puutuv
+a	2809220	0.125	0	dom neutr	tehniline	millegi sooritamisse v. sooritamise oskusesse puutuv, sellega seotud v. sellest tulenev
+r	115554	0.125	0	dom neutr	enne	(RÕHK) väljendab tundetooni, suhtumist öeldusse; pigem
+r	88931	0.125	0	dom neutr	alalõpmata;ala;alalõpmatult	(AEG) kogu aeg, korduvalt
+r	191889	0.125	0	dom neutr	ise;iseenesest;iseendast;iseeneslikult	iseenesest, ilma et keegi seda otseselt põhjustaks
+n	34213	0.125	0	dom neutr	fenomen;ilming;nähtus;nähtumus	olukord või protsess, mida teatakse pigem vaatluse kui intuitsiooni või arutluse kaudu
+n	5650329	0.125	0	dom neutr	meel	vaimsete võimete kategooria; teat. liiki aistingute vastuvõtu ja eristamise võime
+n	5816287	0.125	0	dom neutr	teadmised;informatsioon;info	teadmine, mis on omandatud õppimise v. kogemuse kaudu
+n	7996689	0.125	0	dom neutr	komplekt;sari;kogum	terviklik kogumik ühtekuuluvaid esemeid
+n	407535	0.125	0	dom neutr	tegevus;tegutsemine;toiming;toimetus;talitlus	mistahes konkreetne tegu, ülesanne või tegevusvaldkond
+n	6891493	0.125	0	dom neutr	etendus;vaatemäng;šõu	sõna- v muusikalavastuse, tsirkusenumbrite vms esitus vaatajaskonnale
+n	5611302	0.125	0	dom neutr	pea	psüühiliste protsesside ja tunnete asupaiga ning võrdkujuna
+n	5791602	0.125	0	dom neutr	soov	mingi tahtmise v. eelistuse väljendus
+n	15262921	0.125	0	dom neutr	tänapäev;kaasaeg;nüüdisaeg	praegune aeg v. ajastu
+n	15205532	0.125	0	dom neutr	sajand;aastasada	saja aasta kestusega ajavahemik (eriti ajaarvamises ühe täissaja algusest selle lõpuni), aastasada (EKSS)
+n	5770926	0.125	0	dom neutr	ajutegevus;mõtlemine;mõte;mõttetegevus	tunnetuse kõrgeim aste, objektiivse reaalsuse peegeldamine keerukas ajutegevuses
+n	5773049	0.125	0	dom neutr	argumenteerimine;põhjendus	otsustuse v. otsustuste süsteemi tõestusvahendina, põhjendina esitamine
+n	1264447	0.125	0	dom neutr	väljund;väljapääs	mingi tegevus kui  tunnete või loomeenergia avaldus
+n	10084295	0.125	0	dom neutr	tüdruk;neid	noor naissoost inimene
+n	13281275	0.125	0	dom neutr	palk;töötasu;palgaraha;ametipalk	regulaarselt saadav rahatasu, mida tööandja maksab töövõtjale
+n	4274214	0.125	0	dom neutr	kiirtee	hea, kiireks liikluseks määratud autotee
+n	5823517	0.125	0	dom neutr	eelteadmine;taustteadmine;taust	(millekski vajalik) varasem teadmine
+n	5905348	0.125	0	dom neutr	projekt	tehniliste dokumentide komplekt, mis sisaldab objekti kirjelduse, joonised, põhjendavad arvestused ja vahel ka maketi
+n	15159583	0.125	0	dom neutr	kuupäev;daatum	päeva järjekorranumber kuus (sageli koos kuu nimetamisega)
+n	6158346	0.125	0	dom neutr	filosoofia;mõtteteadus	ratsionaalne uurimine, mis küsib peam. olemise, teadmise ja eetika järele
+n	5651399	0.125	0	dom neutr	mälu;mäletamine	võime meelde jätta, meeles hoida ja meenutada (EKSS)
+n	5905348	0.125	0	dom neutr	plaan;kava	organisatsiooni, üksikisiku vm. tegevuskava mingiks ajavahemikuks
+n	10461747	0.125	0	dom neutr	mõju	millestki v. kellestki lähtuv teat. muutust esile kutsuv toime
+n	7129867	0.125	0	dom neutr	rääkimine;kõnelemine;kõnelus	arusaadavate lausungite ütlemine
+n	5793000	0.125	0	dom neutr	selgitamine;seletamine;selgitus	parema mõistmise nimel millegi selgemaks v. lihtsamaks tegemine
+n	5793000	0.125	0	dom neutr	seletus	mingi nähtuse, sündmuse vms. seletamine, selle selge(ma)ks tegemine v. põhjendamine
+n	5796423	0.125	0	dom neutr	arvestus;kaalutlus;ettemõtlemine	
+n	5925366	0.125	0	dom neutr	mudel	näidiseksemplar, eeskuju, mille järgi midagi tehakse
+n	6893885	0.125	0	dom neutr	näitemäng;näitlemine;näidend	
+n	10414612	0.125	0	dom neutr	pensionär	pensioni saav isik
+n	15271008	0.125	0	dom neutr	paus;katkestus;vaheaeg;seisak;peatus;seisatus	puhke- v. vaikusehetk, soikeperiood
+n	7262579	0.125	0	dom neutr	näitaja	see, kes v. mis midagi näha võimaldab v. millelegi osutab
+n	3541537	0.125	0	dom neutr	ühiselamu;ühikas	
+n	13911872	0.125	0	dom neutr	punkt;täpp	(tehtud v. looduslik) väike ümmargune nähtav objekt v. märk
+n	5807012	0.125	0	dom neutr	meel;inimmeel	inimese loomuse, hingelaadi, vaimu, meelelaadi vms. kohta
+n	5002540	0.125	0	dom neutr	pikkus;pikakasvulisus	kogu (eriti pikkuses); inimese keha üldine kasvulaad (EKSS)
+n	5762149	0.125	0	dom neutr	meel	(sisekohakäänetes) mälu
+n	748155	0.125	0	dom neutr	lits;hoor;lõbunaine;prostituut;tänavatüdruk;tänavanaine;libu;pordunaine;uulitsatüdruk;avalik naine;lipakas;lipats;lita;lirva;lõbutüdruk;rõõmutüdruk;lind;linnuke;lõbulind;ell	tasu eest meestega seksuaalvahekorda astuv naine
+n	3186399	0.125	0	dom neutr	skeem	mingi seadme, nähtuse, protsessi vms. sisemiste seoste tinglik, lihtsustatud kujutis
+n	795008	0.125	0	dom neutr	proov	pooleli oleva riietuseseme sobitamine kandja mõõtudele vastavaks
+n	10376523	0.125	0	dom neutr	vanainimene;vanake;vanur;hallpea;kulupea;rauk;vana	raukuse tunnustega hrl. väga vana, kõrges eas inimene
+n	584769	0.125	0	dom neutr	lugeja	loeb kibe pikkust
+n	5925366	0.125	0	dom neutr	mudel	
+n	7685730	0.125	0	dom neutr	sepik	pärmiga valmistatav jämedast jahust nisuleib
+n	644702	0.125	0	dom neutr	testimine;katsetus	millegi tunnusjoonte uurimine, katsetamine või kontrollimine
+n	9954355	0.125	0	dom neutr	pihtija;tunnistaja;pihiline	pihist (ja armulauast) osavõtja
+n	7173766	0.125	0	dom neutr	luger;riider;lugeja	automaatseade informatsiooni sisestamiseks andmekandjalt
+n	3186399	0.125	0	dom neutr	skeem	andmebaasi struktuuri täielik kirjeldus, mis vastab mingile kindlale käsitlustasemele
+n	6471345	0.125	0	dom neutr	pass	(tõu)looma tunnistus (EKSS)
+n	13911872	0.125	0	dom neutr	punkt	mat mingi matemaatilise ruumi element, millel pole mõõtmeid (EKSS)
+n	6891493	0.125	0	dom neutr	hommik;hommikuüritus	(hrl liitsõna järelosana) hommikupoolikul toimuv etendus, kontsert, ettekanne vms (EKSS)
+n	9920771	0.125	0	dom neutr	häälerühm;hääl	kooris sama häält laulvad lauljad
+n	5925366	0.125	0	dom neutr	trükivorm;plaat	plaat või silinder, mille pealispinnale on moodustatud trükivärvi ülekandvad pinnaosad, trükimasina põhiosa
+n	6518068	0.125	0	dom neutr	lõigend;talong;konts	(kviitungi, rahakaardi jne.) äralõigatav osa
+n	7985223	0.125	0	dom neutr	paar;paarik	kahekaupa esinevate v. kasutatavate, harvem kaheosaliste esemete kohta
+n	7401960	0.125	0	dom neutr	aju	
+n	15118228	0.125	0	dom neutr	tööaeg	töötamise aeg
+v	1644746	0.125	0	dom neutr	sooritama;teostama;täide viima;ellu viima;täitma;teoks tegema;täide saatma;korraldama;tegelikuks muutma	millegi rakendamise, teostamise, sooritamise, täitmise kohta (EKSS)
+v	2708420	0.125	0	dom neutr	veetma;aega kulutama;mööda saatma	aja kohta
+v	609352	0.125	0	dom neutr	meelde tulema;meenuma	mõttesse tulema, mälus elustuma
+v	1652139	0.125	0	dom neutr	kandma	saaki v. vilja andma (hrl. kultuurtaimede kohta); midagi kasvatama (maa kohta)
+v	1192992	0.125	0	dom neutr	minema;kuluma	(millekski, millegi peale) rahaliselt tarvis minema, ära kasutatud saama
+v	1733477	0.125	0	dom neutr	andma;korraldama	(omalt poolt) pakkuma
+v	2163746	0.125	0	dom neutr	silmama;märkama;tähele panema;täheldama;sedastama	millestki teadlikuks saama
+v	1618468	0.125	0	dom neutr	ajama	edasi liikudes, töötades mingit käiku, sihti, liini vms. rajama
+v	781652	0.125	0	dom neutr	piirama;ligi tikkuma	kellegagi lähemat kontakti taotlema, kellegi tähelepanu, poolehoidu, sümpaatiat, armastust taotlema.
+v	322847	0.125	0	dom neutr	küpsetama;süüa tegema;keetma	
+v	588221	0.125	0	dom neutr	haarama;tunnetama;tajuma	(vaistlikult) millestki aru saama (EKSS)
+#wordnetis positiivsed, aga ekis negatiivsed.
+a	683185	0.75	0	dom neg	ebasünnis;ropp;vulgaarne;ebatsensuurne;inetu;labane;jäme;rumal;obstsöönne;valimatu	
+a	858340	0.625	0	dom neg	aeglane;pikaldane;pikatoimeline;flegmaatiline	nii iseloomustatakse inimest, kes on loomu poolest aegamööda, pikkamööda toimiv, liikuv, tegutsev jne
+a	2570282	0.625	0	dom neg	tobe;totter;rumal;jabur	rumalust ilmutav; ebameeldivust, piinlikkust tekitav
+n	5621178	0.625	0	dom neg	pettus;kavalus;valskus;sohk	ebaaus tegu, ninapidivedamine, vale vms. (EKSS)
+n	10100761	0.625	0	dom neg	tobu;lollpea;ohmu;loll;lambapea;tohman;ohmakas;ohmoon;ohmus;tobuke;ullike;rumaluke;rumal;tölplane;totu;totakas;põrunu	(inimese v. looma kohta:) rumal, taipamatu; lihtsameelne
+a	848074	0.5	0	dom neg	obligatoorne;kohustuslik;sunduslik	tingimata tarvilik
+a	302951	0.5	0	dom neg	tormine	ilma kohta; tormi võimuses olev, tormitsev (EKSS)
+a	418364	0.5	0	dom neg	piinlik;äärmine	
+a	903894	0.5	0	dom neg	ülitähtis;hädavajalik;kriitiline	
+a	1269319	0.5	0	dom neg	tühi	näljatunde, söömata oleku kohta
+a	1498084	0.5	0	dom neg	tühi;mõttetu;tähtsusetu;asjatu;ilmaaegne	tegeliku v. sügavama sisuta
+n	5733864	0.5	0	dom neg	kriitika;arvustamine;kriitiline hinnang;arvustus	arvustamine, kriitilised arvamusavaldused, kriitiline hinnang
+a	1351021	0.375	0	dom neg	kinnine;ligipääsmatu;reserveeritud;suletud;vaoshoitud	nii iseloomustatakse inimest, kes on teiste suhtes ligipääsmatu ja tõrjuv, oma mõtteid ja tundeid mitteavaldav
+a	1910652	0.375	0	dom neg	sihitu;eesmärgita;eesmärgitu;tühi	
+a	1431112	0.375	0	dom neg	absurdne;jabur;jampslik;mõttetu	
+a	2436025	0.375	0	dom neg	väljakannatamatu;talumatu;võimatu	nii öeldakse inimeste kohta, kelle käitumine ei ole aktsepteeritav
+n	7516354	0.375	0	dom neg	viha;vihkamine	emotsionaalselt tugev negatiivne tunne
+n	14276936	0.375	0	dom neg	põletik	seente või mikroobide tekitatud haigusprotsess taimses koes (EKSS)
+a	2398608	0.25	0	dom neg	kibe;viha	teravalt mõru
+a	989721	0.25	0	dom neg	kõhn	vähese lihaga luudel
+a	488187	0.25	0	dom neg	erandlik;erand-;ainu-;eriline;eri-;üksik	
+a	464513	0.25	0	dom neg	konkreetne;üksikjuhuline;üldistamata;üksik;üksik-	
+a	899738	0.25	0	dom neg	krüptiline;salajane;varjatud;peidetud;salapärane	
+a	848466	0.25	0	dom neg	sunduslik;kohustuslik;sund-;sunniviisiline	
+a	1913200	0.25	0	dom neg	piiratud;limiteeritud;vähene	koguse, ressursi vms kohta
+n	6733119	0.25	0	dom neg	protest;kirjalik protest	nõusolematus, vastuvaidlus (ametliku kirjaliku avaldusena)
+n	14127211	0.25	0	dom neg	nakkushaigus;infektsioonihaigus	nakkuse teel leviv haigus
+n	5832264	0.25	0	dom neg	tusk;meelehärm;meelepaha;meelekibedus;peavalu	miski, mis tekitab kurbust
+n	5618056	0.25	0	dom neg	aju;mõistus;pea;nutt;nupp	peaaju kui aru, mõistuse, vaimsete võimete keskus
+n	6767035	0.25	0	dom neg	märkus	suuline v. kirjalik etteheide eksimuse, ebakohase käitumise jne. eest (ka distsiplinaarkaristusena)
+a	1859801	0.125	0	dom neg	salajane;varjatud;salastatud;sala-;peidetud;peit-	
+a	1850446	0.125	0	dom neg	tühi;tühjasõnaline;suuresõnaline;tühisõnaline;õõnes	
+n	5698247	0.125	0	dom neg	kahtlus;kahtlustus;küsitavus;küsimärk	arvamine, et miski ei pruugi tõele vastata, millegi küsitavaks, ebakindlaks pidamine
+n	5988498	0.125	0	dom neg	pimedus;rumalus;piiratus;harimatus;võhiklus	vaimuvalguse puudumine
+n	10037385	0.125	0	dom neg	joodik;alkohoolik;joomar;napsitaja;purjutaja;joomakaru;joomakõri;joomahaige;topsisõber;napsisõber;napsiarmastaja;lakkekauss;lakard;lakkekrants;pudelipaikaja;kõri;joomakoer;joomakrants;parm	alkohoolsete jookide liigtarvitaja
+n	797878	0.125	0	dom neg	risk;riskimine	toimimine hea õnne peale, liigjulgus
+n	407535	0.125	0	dom neg	rünnak;kallaletung;rünne;ründamine;ründ	ründamise üksikjuhtum
+n	14537054	0.125	0	dom neg	põud	kestvalt kuiv (v. väheste sademetega) kuum ilmastik, mis ei võimalda taimedel rahuldada oma veetarve
+n	7306252	0.125	0	dom neg	skandaal	avalik kõmuline pahandus v. häbistav juhtum (EKSS)
+n	1181902	0.125	0	dom neg	kriminaalasi	toimepandud kuriteo asjaolusid selgitav konkreetne protsessuaalne menetlus; selle fikseering kohtutoimikus (EKSS)
+#wordnetis positiivsed, aga ekis vastuolulised.
+#wordnetis neutraalsed, aga ekis positiivsed.
+a	1384212	0	0	dom pos	ruumikas;avar	ruumi poolest mahukas, suur
+a	2495922	0	0	dom pos	hea;kasulik;väärtuslik	mingis suhtes soodus, sobilik
+a	2839505	0	0	dom pos	professionaalne;elukutseline	(elu)kutseline, elukutsele omane
+a	35465	0	0	dom pos	aktiivne;energiline;elav	energiliselt tegutsev v. toimiv
+a	2290998	0	0	dom pos	kindel	püsivamat laadi, mittejuhuslik
+a	446921	0	0	dom pos	ligidane;lähedane	lühikese ajavahemiku taga olev
+a	643250	0	0	dom pos	loov;loominguline	nii iseloomustatakse inimest, kes on loomingu(protsessi)ga seotud
+a	1900349	0	0	dom pos	täpne;punktuaalne;korrektne	nii iseloomustatakse inimest, kes oma kohustusi täidab õigeaegselt
+a	2787073	0	0	dom pos	ratsionaalne;kaine;mõistuslik;mõistuspärane;arukas	nii iseloomustatakse inimest, kes on kainelt asjalik, tunnetele vähe ruumi jättev
+a	1200095	0	0	dom pos	ühtlane;homogeenne;ühtlik;ühtne	
+a	728431	0	0	dom pos	iseseisev;vaba;prii;sõltumatu;suveräänne;autonoomne;rippumatu	
+a	1770392	0	0	dom pos	julge;väljakutsuv;efektne	nii öeldakse nt riietumisstiili, käitumise, esitusviisi kohta, mis paistab silma ja on taotluslikult teistest erinev
+a	538565	0	0	dom pos	keskendunud;kontsentreeritud;tähelepanelik	
+a	1036754	0	0	dom pos	kodumaine;kodu-;omamaine	
+a	249576	0	0	dom pos	mittevägivaldne;loomulik;iseeneslik	
+a	1119661	0	0	dom pos	sile;peegelsile;jääsile	
+a	1307690	0	0	dom pos	teadlik;teadvustatud;kursis;informeeritud	
+a	289365	0	0	dom pos	terve;veatu;vigastamata;rikkumata	
+a	927373	0	0	dom pos	elus	nii kirjeldatakse seda, mis toimib, tegutseb
+a	2095670	0	0	dom pos	tihe;kindel;pidav;püsiv	
+a	431774	0	0	dom pos	läbipaistev;selge;puhas	selline, millest saab läbi vaadata
+a	2015571	0	0	dom pos	rahuldustpakkuv;meeldiv	
+a	450147	0	0	dom pos	lähedane;ligidane	lühikese vahemaa taga asuv
+a	1045711	0	0	dom pos	lihtne;kõnekeelne;vaba	
+a	11757	0	0	dom pos	mõtteline;abstraktne;sisuline	mõtet puudutav; mõttes eksisteeriv
+a	34710	0	0	dom pos	aktiivne;tegev	
+a	308015	0	0	dom pos	suuteline;suutlik;suutev;võimeline	mingiks teoks, ülesandeks vastavat temperamenti või kalduvust omav
+a	413622	0	0	dom pos	klassikaline	klassikasse kuuluv
+a	2713715	0	0	dom pos	diplomaatiline	diplomaatiasse puutuv, diplomaatiaga seotud
+a	1710260	0	0	dom pos	tasuta;vaba;prii	
+a	2743261	0	0	dom pos	inimlik	inimloomusele omane, inimeste seas esinev
+a	1634027	0	0	dom pos	sundimatu;mitteametlik;vaba	
+a	2499301	0	0	dom pos	loogiline;põhjendatud;õigustatud	sisemisest seaduspärasusest, millegi loogikast tulenev
+a	2232112	0	0	dom pos	lai;avar	riietusesemete kohta
+a	916199	0	0	dom pos	vaba	selline, kus ei arvestata, järgita täiel määral eeskujusid, originaali
+a	414354	0	0	dom pos	kaasaegne;ajakohane;moderne	nüüdisnõuetele vastav
+a	1033996	0	0	dom pos	kodumaine;kodu-;sünni-	
+a	2864165	0	0	dom pos	monumentaalne;suuremõõtmeline;suurejooneline;võimas	monumenti meenutav
+a	2531919	0	0	dom pos	soe	meeldivana, mahedana tajutav v. mõjuv (eriti häälte või värvide kohta)
+a	369941	0	0	dom pos	kuldne;kullavärviline;kullaläikeline	kullavärvi
+n	5174653	0	0	dom pos	õigus	abstraktne mõiste sellest, mis mingile isikule v. asutusele kuulub seaduse, traditsiooni v. loomu poolest
+n	7356676	0	0	dom pos	kasv;suurenemine;kasvamine	millegi massi v. mõõtmete suuremaks muutumine, lisandumine, laienemine, täienemine vms.
+n	7609840	0	0	dom pos	magustoit;järelroog;dessert;järeltoit	lõunasöögi viimase roana serveeritav magus roog, maiustus (näit. puding, jäätis)
+n	9774783	0	0	dom pos	advokaat;kaitsja	isik, kes kaitseb midagi või kedagi
+n	9815790	0	0	dom pos	assistent;abiline;assisteerija	mingis töös kellelgi ajutiselt, juhuslikult või pidevalt abiks olev isik
+n	13464820	0	0	dom pos	areng;arenemine	kindla seesmise tendentsiga liikumine, mille algus ja lõppolek on kvalitatiivselt erinevad
+n	363260	0	0	dom pos	kasv;suurendamine;suurendus;rohkendamine;rohkendus	toiming, mille käigus midagi tehakse suuremaks või lisatakse millelegi juurde
+n	654885	0	0	dom pos	hool;hoolitsus;hoolitsemine;hooldus	kellegi v. millegi vajaduste rahuldamine v. korras hoidmine
+n	13260190	0	0	dom pos	saak	see, mis saadakse v. on saadud mingi (sihipärase) tegevuse tulemusena
+n	5143077	0	0	dom pos	huvi;kasu	tulus, soodus asjaolu; see, mida keegi taotleb
+n	7679356	0	0	dom pos	leib	hrl. juuretise abil hapendatud ning kergitatud (rukkijahu)taignast küpsetatud toit; leivapäts; leivakäär
+n	5085572	0	0	dom pos	lähedus;ligidus	lähedal olek, lähedane ümbrus
+n	10080869	0	0	dom pos	isa	meessoost vanem oma lapse v. laste suhtes
+n	13255145	0	0	dom pos	tulu;kasu	millestki, millegi läbi saadav majanduslik tulu
+n	11669921	0	0	dom pos	lill	kaunite õite, lehtede v. viljadega (roht)taim
+n	10332385	0	0	dom pos	ema	naissoost vanem, naine oma lapse v. laste suhtes
+n	10605985	0	0	dom pos	oskustööline;meister	tööline, kes on mingil alal omandanud erilised oskused v. vilumuse
+n	35189	0	0	dom pos	saavutus;kordasaatmine;saavutamine	millegi teokstegemine
+n	908492	0	0	dom pos	loomine;looming;loome	inimtegevus, millega tekitatakse midagi uut
+n	10732314	0	0	dom pos	eestkostja;hooldaja	isik, kes kellegi huvisid kaitseb, kellegi eest seisab
+n	9406793	0	0	dom pos	kari;rahu	veealune v. pisut üle veepinna ulatuv murdlainetusega kivine kõrgendik meres
+n	9538915	0	0	dom pos	ingel	üleloomulik olend, jumala teener ja käskjalg (kujutatud hrl. tiivulisena)
+n	7642933	0	0	dom pos	keedis;moos;konfitüür;džemm	marjadest v. puuviljast suhkruga keedetud hoidis
+n	6478582	0	0	dom pos	diplom	kõrgkooli v. tehnikumi lõpetamist, teadusliku kraadi andmist vms. tõendav dokument
+n	6904748	0	0	dom pos	emakeel	esimese keelena kõige varasemas lapsepõlves vanemailt v. kasvatajailt omandatud keel, mida inimene hrl. kõige paremini oskab
+n	13250398	0	0	dom pos	rikkus;varandus;rahakus	miski ainelise, materiaalse väärtusena
+n	13275847	0	0	dom pos	maksumus;väärtus	rahasumma, mis teat. toodangu-, kauba- v. tööhulga eest tuleb v. tuleks maksta v. millega seda arvestatakse
+n	5176846	0	0	dom pos	inimõigused;inimõigus	inimestele võõrandamatult (sõltumata rassist, usust v. ühiskondlikut staatusest) kuuluvad õigused
+n	3002948	0	0	dom pos	karikas	sügava kausikese kujuline laieneva jalaga (väärismetallist) jooginõu
+n	15250178	0	0	dom pos	sünnipäev;hällipäev	kellegi sündimise aastapäev
+n	249501	0	0	dom pos	progress;edenemine;edu;edasiminek;edendus	nähtuse arenemine madalamalt kõrgemale tasemele
+n	429048	0	0	dom pos	ajaviide;meelelahutus	(meeldiv) aja möödasaatmine; seda võimaldav tegevus
+n	7175575	0	0	dom pos	nõusolek	midagi lubav sedastus
+n	7027180	0	0	dom pos	kooskõla	mitme heli samaaegne kõlamine
+n	5983654	0	0	dom pos	soov;tahe;tahtmine;tahtmus	püsiv siht v. eesmärk
+n	12630144	0	0	dom pos	maasikas	lihakaviljaline kolmetiste lehtede ja maapealsete võsunditega püsiktaim (Fragaria)
+n	7745940	0	0	dom pos	maasikas;maasikmari	
+n	15237044	0	0	dom pos	kevad;kevade	talve ja suve vaheline aastaaeg
+n	15237250	0	0	dom pos	suvi	kevade ja sügise vaheline aastaaeg (EKSS)
+n	15163797	0	0	dom pos	pühapäev;P;hingamispäev	nädala seitsmes päev (mõnes kultuuris ka esimene päeva)
+n	15137047	0	0	dom pos	puhkepäev	(nädala)päev, mil töötaja on ametikohustustest vaba (ja asutus/ettevõte suletud)
+n	197772	0	0	dom pos	vahetumine;uuenemine;vahetus;uuendus	
+n	1248852	0	0	dom pos	uuenemine;uuendus	
+n	10292052	0	0	dom pos	saks;härra;isand	kõrgemasse ühiskonnakihti kuuluv v. paremal järjel olev inimene
+n	6957896	0	0	dom pos	eestlane	Eesti elanik
+n	1202904	0	0	dom pos	koostöö;ühistöö;koostegevus;ühistegevus;meeskonnatöö	kahe v. mitme isiku, isikute rühma vm. ühine v. kooskõlastatud töötamine v. tegutsemine; selle tulemus (EKSS)
+n	13991823	0	0	dom pos	vabadus;priius	vaba-olemise tingimus; võim rääkida v. tegutseda v. mõelda ilma väljaspoolt peale sunnitud tõkestusteta
+n	10142747	0	0	dom pos	vanaema;koosu	ema v. isa ema;(murdes)
+n	10142391	0	0	dom pos	vanaisa;vaar	ema v. isa isa
+n	10332385	0	0	dom pos	emme;emm;memm;mamma;muti;eit;emps;mamps	(hellitavalt ema kohta)
+n	8510169	0	0	dom pos	kodumaa;isamaa	maa, riik, kust keegi on pärit v. mille kodanik ta on
+n	1248852	0	0	dom pos	värskendamine;uuendamine;uuendus	
+n	14435353	0	0	dom pos	esikoht;esimene koht	esimene koht milleski; juhtiv koht
+n	14522956	0	0	dom pos	vaikus;tuuletus;tuulevaikus;tüünus	rahuliku ilma periood
+n	13344071	0	0	dom pos	kaitse;kaitsmine;kaitsetegevus	mingi ebasoovitava tagajärje vältimiseks
+n	14002279	0	0	dom pos	tasakaal;balanss;ekviliibrium	seisund, kus keha(de) raskus jaguneb toetuspunkti(de) suhtes nii, et see keha püsib (v. need kehad püsivad) muutumatus asendis (EKSS)
+n	7138085	0	0	dom pos	arutus;arutamine;arutlus	
+n	15147097	0	0	dom pos	lapsepõlv;lapseiga;lapsepõli	aeg, millal inimene on noor v. laps
+n	517728	0	0	dom pos	festival;pidustus	perioodiliselt korraldatav pidulik kunstisaavutuste ülevaatus v. konkurss; suurpidustus, mille kavva kuuluvad muusika- jm. võistlused
+n	10782940	0	0	dom pos	võitja;meister	see, kes saab võistlusel parima koha
+n	7858978	0	0	dom pos	mesi;linnumagus	magus siirupjas, seismisel kristalliseeruv vedelik, mis on tekkinud mesilase ensüümide toimel nektarist vm. taimeeritistest
+n	9824609	0	0	dom pos	autoriteet;mõjumees;keegi;tuntu	vaimse mõjuvõimuga ning lugupeetud isik; üldise tunnustuse pälvinud isik, omal alal tunnustatud spetsialist
+n	6706676	0	0	dom pos	medal;auraha	lame hrl. ümmargune, ka tähe- vm. kujuline (vääris)metallist vm. materjalist aumärk v. mälestusese
+n	13268146	0	0	dom pos	auhind;preemia	(näit. võistluses, võistlustel) saavutuste eest tunnustuseks antav (mälestus)ese, rahasumma, tunnistus, aumärk vms.
+n	8361329	0	0	dom pos	demokraatia;rahvavõim	poliitilise korra vorm, kus riigi juhtimine põhineb enamuse võimul vähemuse üle, eksisteerivad kodanikuvabadused ja demokraatlikud õigused
+n	15250312	0	0	dom pos	juubel	tähtpäev, mida tähistatakse hrl. ümmarguse aastaarvu möödumisel isiku, asutuse, organisatsiooni sünnist v. tegevuse algusest v. mingi sündmuse toimumisest
+n	13994148	0	0	dom pos	sõltumatus;iseseisvus;iseolemine;suveräänsus	kontrollivabadus v. mõju enda v. teiste üle
+n	7226545	0	0	dom pos	lubadus;tõotus	kindel lubamine midagi teha, teat. viisil toimida vm.
+n	7015510	0	0	dom pos	komöödia;naljamäng;naljatükk;lustmäng	lõbusasisuline, lõbusa lõpplahendusega näidend
+n	6781383	0	0	dom pos	komöödia	janditamine, komet, kometimäng, kometitegemine
+n	7015510	0	0	dom pos	komöödia	üks dramaatika žanreid
+n	1089778	0	0	dom pos	kaasabi;toetus;kaasaaitamine;abistamine	teistele abi andmine
+n	10141590	0	0	dom pos	lapselaps	poja- v. tütrelaps
+n	15089258	0	0	dom pos	vitamiin	orgaaniline ühend, mida on normaalseks elutegevuseks vaja kõigile inim- ja loomorganismidele
+n	8256735	0	0	dom pos	pulm;pulmapidu	peale abiellumise tseremooniat peetav pidu
+n	1233156	0	0	dom pos	külaskäik;külastus	kellelgi külas käimine
+n	5076827	0	0	dom pos	proportsionaalsus;kooskõla	terviku osade omavaheline vastavus
+n	5002352	0	0	dom pos	kasv;kehakasv	kogu (eriti pikkuses)
+n	13365286	0	0	dom pos	leib;elatis;elatusvahend;ülalpidamine	toit; sissetulek, teenistus
+n	5923983	0	0	dom pos	väärtus	inimese v. teat. grupi ideaal
+n	1021579	0	0	dom pos	püsi;püsivus;asu;rahu	mingi tegevuse juures püsimiseks vajalik kannatlik, kärsituseta seisund
+n	13272059	0	0	dom pos	preemia	hrl. rahaline auhind
+n	13273154	0	0	dom pos	preemia;lisatasu;boonus	palgale lisaks makstav ergutusraha;tasule v. palgale lisaks (EKSS)
+n	3464467	0	0	dom pos	kaitsevahend;kaitse;turvis	kaitsev ese, aine vms.
+n	6740644	0	0	dom pos	kaitse;kaitsmine	kellegi huvide tagamiseks, kellegi eest seismiseks
+n	9827683	0	0	dom pos	imik;vastsündinu;titt;tita;beebi;rinnalaps;maailmakodanik	laps sündimisest kuni esimese eluaasta lõpuni
+n	15196186	0	0	dom pos	jõul;jõulupüha	
+n	9970699	0	0	dom pos	omakandimees;omanurgamees;ühekülamees;semlak;ühenurgamees;kodukandiinimene;kaasmaalane	
+n	9970699	0	0	dom pos	omamaalane;kaasmaalane;rahvuskaaslane;suguvend	
+n	10081456	0	0	dom pos	isa	auväärt (vaimu)inimene, (ühiskonna)tegelane vms.; vaimne juht, õpetaja; algataja, looja, esimene esindaja (EKSS)
+n	5682950	0	0	dom pos	huvi	tähelepanu, samuti mõtete keskendumine objektile, mida tahetakse omandada v. tundma õppida; millegi harrastamine.
+n	10759331	0	0	dom pos	vabatahtlik;volontäär	
+n	10407954	0	0	dom pos	sponsor;rahaandja;toetaja;rahaannetaja	
+n	10078131	0	0	dom pos	harrastaja;huviline	
+n	13294135	0	0	dom pos	stipp;stipendium	õpinguiks v loometööks korrapäraselt makstav toetus
+n	8671644	0	0	dom pos	kodulinn	linn, kust keegi on pärit v. kus on kellegi kodu
+n	9909760	0	0	dom pos	hoolealune	kellegi hoole all olija (v. olev)
+n	15250178	0	0	dom pos	sünnipäevapidu;sünnipäev	
+n	4061793	0	0	dom pos	registratuur;vastuvõtt	ametlik registreerimisruum v. -punkt (EKSS)
+n	8412136	0	0	dom pos	kasvataja;lasteaiakasvataja;kasvatajanna	(naissoost)
+n	9614684	0	0	dom pos	kaitsja;valvaja;turvaja	
+n	9798534	0	0	dom pos	kaitsja;kostja;õigustaja	
+n	9997404	0	0	dom pos	kaitsja;väitleja;disserdant	väitekirja kaitsja teaduskraadi saamiseks
+n	9906704	0	0	dom pos	maailmameister	maailmameistrivõistluste võitja (EKSS)
+n	3082979	0	0	dom pos	õigus;eesõigus;privileeg;kasutajaõigus	õigus kasutada arvutisüsteemis teatud objekte või operatsioone
+n	5856388	0	0	dom pos	väärtus	määratud või arvutatud numbriline suurus
+n	8377806	0	0	dom pos	ema	
+n	5856388	0	0	dom pos	väärtus;atribuudi väärtus	atribuudi konkreetne eksemplar
+n	3407369	0	0	dom pos	kaitse	automaatseade elektriahela katkestamiseks liigvoolu tekkel (EKSS)
+n	3464467	0	0	dom pos	kaitse;lokaut	abinõu kogu arvutisüsteemi või ta mingi osa juurdepääsu või kasutamise kitsendamiseks
+n	14038264	0	0	dom pos	paaritumisaeg;pulm;innaaeg;jooksuaeg;östraalperiood	
+n	1248852	0	0	dom pos	uuendamine;uuendus	
+n	7801508	0	0	dom pos	kook;õlikook	proteiinirohke jõusööt, mida saadakse peam. õlitaimede seemneist õli väljapressimise kõrvalsaadusena (EKSS)
+n	13268146	0	0	dom pos	karikas	
+n	954311	0	0	dom pos	defensiiv;kaitsetegevus;kaitse	kaitsetaktika sõjapidamisel
+n	7179342	0	0	dom pos	kompromiss	vastastikuse järeleandmisega saavutatud kokkulepe (EKSS)
+n	13320168	0	0	dom pos	honorar	vabakutselise arsti, advokaadi jt. tasu (EKSS)
+n	2313008	0	0	dom pos	kuninganna;ema	mõnede ühiseluliste putukate (näit. mesilaste, sipelgate, termiitide) sigimisvõimeline emasloom (EKSS)
+n	15248564	0	0	dom pos	klassika	mingi rahva kultuurilise arengu kõrgpunkt v selles arengus tähtsat osa mänginud ajajärk (Neithal)
+n	10402417	0	0	dom pos	sõber	kindel partner teatud vastastikustes kauba- või ärisuhetes
+n	9632518	0	0	dom pos	vabapalgaline;vabatahtlik	koosseisuväline töötaja
+n	6694540	0	0	dom pos	soovituskiri;rekomandatsioon;soovitus	annab võimalikule tulevasele tööandjale usaldusväärset informatsiooni kandidaadi kohta
+v	1685313	0	0	dom pos	looma	midagi (kunsti)loomingulist tekitama, millegi tekkimise, toimumise v. olemasolu põhjuseks olema
+v	1589869	0	0	dom pos	märkima;märgistama;tähistama;märgitsema;markeerima	tähistamiseks kuhugi või millelegi märki tegema või panema
+v	2448185	0	0	dom pos	moodustama;asutama;organiseerima;looma	näiteks ühiskondlikku gruppi v. firmat
+v	921738	0	0	dom pos	märkima;tähendama;tähistama;märgistama;markeerima	(sümbolite, tähiste jms. kohta) tähiseks, märgiks olema
+v	462689	0	0	dom pos	takistama;piirama;kammitsema;pärssima;pidurdama;takerdama;talitsema;taltsutama;rahustama	(protsessi, nähtuse v. tegevuse kohta) midagi v. kedagi tõkestama, tagasi hoidma;takistama, aeglustama v. peatama (protsessi, tegevust, nähtust) (EKSS)
+v	856824	0	0	dom pos	kiitma;tunnustama;silitama	tunnustust, rahulolu kellegi v. millegi suhtes avaldama, positiivset hinnangut andma
+v	595935	0	0	dom pos	teadma;oskama	mingit võimet valdama; millekski võimeline olema, millegagi (ladusalt) toime tulema.
+v	634906	0	0	dom pos	lahendama	ebaselget v. vaieldavat probleemi selgitama (v. otsustama)
+v	00029214	0	0	dom pos	naeratama	korraks pisut, kergelt, ainult näoilmega naerma
+v	00014742	0	0.125	dom pos	magama;puhkama;tuduma;tudima	uneseisundis olema, mitte ärkvel olema
+v	01431230	0	0	dom pos	armastama;armatsema	(vastastikku) kallistusi ja õrnusavaldusi jagama v. seksuaalvahekorras olema
+v	00892315	0	0	dom pos	tänama;aitäh ütlema;tänusõnu ütlema	tänutunnet väljendama, tänu avaldama (EKSS)
+v	01655902	0	0	dom pos	taastama;rekonstrueerima;uuesti ehitama	säilinud andmete põhjal midagi tõepärasel kujul taastama, millegi algupärast ilmet taaslooma (tegelikkuses v. kirjelduse, joonise, mudelina)
+v	02251065	0	0	dom pos	kindlustama	kindlustuslepingut sõlmima
+v	01087197	0	0	dom pos	kindlustama;fortifitseerima	kaitseehitisi rajama, kaitseehitistega varustama
+v	00890100	0	0	dom pos	kindlustama	(komitatiiviga:) varustama, andma
+v	00014405	0	0	dom pos	puhkama	töö vm. pingutuse järel väsimustundest vabanemiseks ja jõuvarude taastamiseks (aktiivse) tegevuseta, jõude olema, rahuolekus viibima
+v	00213794	0	0	dom pos	võima;tohtima	näitab, et keegi saab, tohib, suudab, oskab midagi teha; väljendab tegevuse võimalikkust
+v	01821423	0.125	0	dom pos	huvitama;huvi pakkuma;pinget pakkuma	huvitav olema, tähelepanu köitma
+v	01821423	0.125	0	dom pos	huvitama;huvi äratama;korda minema;kottima	huvi pakkuma, tähelepanu köitma
+v	00555084	0	0	dom pos	tugevnema;paisuma;valjenema;intensiivistuma;kõvenema	intensiivsuselt kasvama
+v	01816431	0.375	0	dom pos	rahuldama	kellelegi rahulolu, rahuldust pakkuma, kedagi rahulduma panema; teat. lootustele, soovidele, nõuetele vms. vastama (EKSS)
+v	01775914	0.375	0	dom pos	armuma;lembuma	kellessegi (äkki) kiinduma, kedagi armastama hakkama
+v	02424652	0	0.25	dom pos	rahustama	tõrkumist, vastuhakku äärmise julmusega maha suruma, selliselt korda jalule seadma
+v	01637633	0	0.125	dom pos	unistama;unelema	unelmaid omama; fantaasiale vaba voli andma
+v	01431230	0	0	dom pos	suudlema;suud andma	suudlust andma v. võtma (EKSS)
+v	01424456	0.375	0	dom pos	kallistama;embama;sülelema;kaisutama;kaelustama	kiindumusega kaelustama
+v	00734054	0	0	dom pos	võtma;käsitama;mõistma	midagi teat. viisil tõlgendama (mõiste sisu piiritledes, midagi defineerides)
+v	02556817	0.5	0	dom pos	sekundeerima;toetama;järele kiitma	(toetavalt) kaasa rääkima; sobivalt, kooskõlaliselt koos esinema (EKSS)
+v	02074677	0	0	dom pos	pääsema	ohtlikust, raskest v. halvast olukorrast ära, eemale v. turvalisemasse paika jõudma (EKSS)
+v	01217043	0	0	dom pos	toetama	teatud olukorra, asendi vms säilitamisel toeks olema
+v	00760956	0	0	dom pos	tervitama	tervitusi, häid soove edasi andma; tervisi saatma (EKSS)
+#wordnetis neutraalsed, aga ekis negatiivsed.
+a	980527	0	0	dom neg	aeglane	aegamööda, pikkamööda toimuv, kulgev v. arenev
+a	1247240	0	0	dom neg	kuum;palav	kõrge temperatuuriga, väga soe
+a	1073707	0	0	dom neg	mage	vähe, nõrgalt soolane v. päriselt soolatu
+a	47243	0	0	dom neg	alkoholilembene;napsitaja;joodik;purjutaja	nii iseloomustatakse inimest, kes armastab juua alkoholi
+a	188436	0	0	dom neg	uimane;väsinud;unine	nii iseloomustatakse inimest, kelle energia on pidevalt madal
+a	1401854	0	0	dom neg	illegaalne;ebaseaduslik;keelatud;seadusvastane;keelualune;keelustatud	nii iseloomustatakse tegevust v tegu, mis pole seadusega kooskõlas
+a	2919275	0	0	dom neg	põrandaalune;konspiratiivne;salajane;illegaalne	(hrl. poliitilistel põhjustel) varjatult tegutsev
+a	493460	0	0	dom neg	individuaalne;üksik;ainuisikuline	üksikisiku poolt tehtav, rakendatav vms. (EKSS)
+a	1120242	0	0	dom neg	kiilas;libe;hiilas;klaaslibe	
+a	461311	0	0	dom neg	pilvine;pilves	
+a	415696	0	0	dom neg	salajane;konfidentsiaalne;kinnine	
+a	898963	0	0	dom neg	salajane;krüptiline;esoteeriline;kinnine	ainult asjasse pühendatuile määratud
+a	1860328	0	0	dom neg	seljatagune;nurgatagune;varjatud;telgitagune;salajane	
+a	1086545	0	0	dom neg	tühi;tilgatu	
+a	189017	0	0	dom neg	unine;unesegane	
+a	1184932	0	0	dom neg	raske;raskekaaluline	palju kaaluv, suure kaaluga
+a	2160465	0	0	dom neg	pime	mittenägev, nägemisvõimetu
+a	2059280	0	0	dom neg	kaelamurdev;eluohtlik	
+a	358534	0	0	dom neg	negatiivne	elektronide ülekaaluga iseloomustuv
+a	1487496	0	0	dom neg	paaritu;paariliseta;üksik	ilma paariliseta
+a	693020	0	0	dom neg	sügav;raske	(une, teadvuseta oleku, mõtete vm. kohta:) kedagi täielikult vallanud, ümbritsevast täielikult välja lülitanud
+a	2234781	0	0	dom neg	libe	(hrl. mingi pinna kohta:) sile (ja märg v. limane) ning seetõttu väikese hõõrdetakistusega
+n	953559	0	0	dom neg	võitlus;lahing;taplus	vaenulike sõjajõudude kokkupõrge
+n	972621	0	0	dom neg	rünnak;pealetung;atakk;kallaletung	sõjalise operatsiooni algus
+n	1160342	0	0	dom neg	karistus;karistamine	kuriteo, üleastumise, halva käitumise vms. puhul rakendatav kasvatus- v. mõjutusvahend
+n	4565375	0	0	dom neg	relv;sõjariist	riist, vahend ründamiseks, elusolendite ja materiaalsete väärtuste hävitamiseks (EKSS)
+n	67526	0	0	dom neg	kaotus;kaotamine;kahju	olemasolevast ilmajäämine õnnetuse, varguse vms teel, ilma kindla väljavaateta seda tagasi saada
+n	14061805	0	0	dom neg	haigus;tervisekahjustus	organismi normaalse elutegevuse häire
+n	6784003	0	0	dom neg	probleem;mureküsimus	teaduses selline küsimus, mille lahenduseks pole piisavalt teadmisi
+n	11514805	0	0	dom neg	pinge	vastuoludest, lahkhelidest tingitud pinev, ärev, närviline olukord, mis võib agressiivse tegutsemiseni viia
+n	11495041	0	0	dom neg	rõhk;surve	pinnaühikule normaali sihis (risti) mõjuv jõud
+n	11444117	0	0	dom neg	surm;puhkamine	organismi v. selle osa elutegevuse lakkamine
+n	7355491	0	0	dom neg	surm;lahkumine;äraminek;manalatee;suremine	elust lahkumine
+n	719494	0	0	dom neg	kohustus;ülesanne;mure	toiming vms., mille keegi peab sooritama kellegi korraldusel v. enda sisetunde sunnil
+n	973077	0	0	dom neg	sõda;võitlus;sõdimine	sõjapidamine relvastatud konfliktis vaenlase vastu
+n	3839795	0	0	dom neg	takistus;tõkestus;tõke	miski, mis peatab v. raskendab edasi liikumist
+n	6542047	0	0	dom neg	keeld	keelav korraldus v. ütlus
+n	13980845	0	0	dom neg	tüli;konflikt;riid;tüliasi;tüliküsimus;kokkupõrge;nägelus;jagelus;jagin;jamelus;nagelemine	lahkheli, kokkupõrge erinevate arvamuste, vastandlike olemuste vms. pinnal
+n	7234230	0	0	dom neg	süüdistus	kellegi vastu suunatud negatiivne väide, et see on mingi negatiivse sündmuse v. tagajärje põhjustaja
+n	1328702	0	0	dom neg	viirus	üks või mitu DNA või RNA molekuli, mida ümbritseb valkudest kapsiid, mõnel juhul sisaldavad ka lipiide
+n	14365356	0	0	dom neg	palavik	normaalsest kõrgem kehatemperatuur (hrl. haigussümptoomina)
+n	5016171	0	0	dom neg	kuumus;kuum;palavus;palav	kõrge temperatuur (hrl. õhu, ilmastiku kohta)
+n	11507951	0	0	dom neg	lörts;lobjakas;lobjak;lots	märg lumi (EKSS); liik sademeid, mis sajab märja lume või samaaegse lauslume ja -vihma seguna ning maapinnale jõudes kohe sulab
+n	11462526	0	0	dom neg	torm;maru;raju;möll;mülletis	väga tugev tuul; meteor. tuul, mille tugevus on suurem kui 9 palli (EKSS)
+n	958896	0	0	dom neg	võitlus;kokkupõrge	lööming, kaklus; võitlus, lahing
+n	13275288	0	0	dom neg	kulu;kulutus;väljaminek;kulumine	toidu, teenuste jm. peale kulutatud raha hulk
+n	13397174	0	0	dom neg	võlg;võlakohustus	laenuks saadud ja tagastamisele v. hüvitamisele kuuluv rahasumma, kaup v. teenus
+n	13327231	0	0	dom neg	kahjum	rahasumma, mille võrra ettevõtte kulud ületavad tulusid
+n	3076708	0	0	dom neg	defitsiit;defitsiitkaup	defitsiitne kaup, miski defitsiitne (EKSS)
+n	2331046	0	0	dom neg	rott;pent	inimkaaslejana kogu maailma asustav hiirest suurem pika sabaga näriline (Rattus) (EKSS)
+n	14326607	0	0	dom neg	peavalu	valu peas (EKSS)
+n	1177033	0	0	dom neg	protest	nõusolematus, vastuvaidlus
+n	13133786	0	0	dom neg	nutt;õienutt	nupjas v. kerajas kobarõisik, mille laienenud põhjale kinnitub hulk raotuid v. väga lühiraolisi õisi
+n	14451189	0	0	dom neg	rutt;kiir;kibe	ajahädas olek
+n	10707804	0	0	dom neg	varas;varastaja;pihtapanija	kurjategija, kes võtab teise inimese asju, et neid endale hoida
+n	14359174	0	0	dom neg	köhimine;köha	
+n	1041349	0	0	dom neg	ohver;ohvriand;uri	see, mida v. keda annetatakse jumalatele, haldjatele, vaimudele nende soosingu saavutamiseks v. tänuks millegi eest
+n	10333317	0	0	dom neg	ämm	abikaasa ema
+n	9945603	0	0	dom neg	kommunist	kommunistliku partei liige; kommunismi pooldaja (EKSS)
+n	6756831	0	0	dom neg	vale;võltsus	
+n	10098710	0	0	dom neg	vaenlane	vaenulik, halba sooviv isik
+n	8190482	0	0	dom neg	vaenlane;vaenuvägi	vaenutsev sõjavägi
+n	3948459	0	0	dom neg	püstol	käest lastav üksikisiku tulirelv
+n	10476086	0	0	dom neg	vang;vangistatu;vangivõetu	inimene, kes on vangistatud, vangi pandud
+n	5699434	0	0	dom neg	kahtlus;kahevahelolek;kõhklus;kahklus;kõhelus	suutmatus otsustada üht või teist
+n	13981403	0	0	dom neg	sõda	organiseeritu relvastatud võitlus eri riikide v. rahvuste vahel
+n	11508092	0	0	dom neg	suits;toss;savu	millegi põlemisel v. kuumenemisel tekkiv gaaside, õhu ja tahkete osakeste hõljuv segu (EKSS)
+n	8521623	0	0	dom neg	surnuaed;kalmistu;kalmuaed;kabel;kabeliaed;kabelimägi	maa-ala surnute matmiseks
+n	10752093	0	0	dom neg	ohver;uri	kellegi tõttu, millegi läbi kannatanu, kahjustatu v. hukkunu
+n	6410391	0	0	dom neg	arvustus;retsensioon;kriitika	hindav arvustus; käsikirja, trükiteose, teatrilavastuse, filmi vms. põhjendatud hinnang
+n	7408171	0	0	dom neg	plahvatus;lõhkelaeng;plahvatamine	aine oleku ülikiire muutumine, millega kaasneb suure energiahulga vabanemine, järsk temperatuuritõus ja lööklaine
+n	141806	0	0	dom neg	kontroll;kontrollimine	
+n	7417644	0	0	dom neg	kriis	otsustav murrang, pöördepunkt haiguse kulus
+n	14033054	0	0	dom neg	kriis;kitsikus;nappus	millegi puudus
+n	9773245	0	0	dom neg	vastane;vastuseisja;antagonist;oponent;vastaline;oponeerija	see, kes on teise suhtes vastandliku toimega, omadustega vms.
+n	14376188	0	0	dom neg	stress	organismi pingeseisund, mis tekib kaitsereaktsioonina teat. tugevate mõjurite (näit. vaimse pinge, verekaotuse, hapnikuvaeguse vms.) vastu; kõnek. pidev psüühiline pinge, depressioon vms (EKSS)
+n	7338552	0	0	dom neg	kokkupõrge	liikuva keha põrkumine mingi teise (liikuva) kehaga (EKSS)
+n	3856012	0	0	dom neg	lastekodu	orbunud vm. viisil vanemate hooleta jäänud laste kasvatusasutus
+n	7944408	0	0	dom neg	pime;mittenägija	nägemisvõimetu inimene
+n	7451463	0	0	dom neg	matus;matusetalitus;matusetseremoonia;ärasaatmistalitus;leinatalitus	surnu ärasaatmine, muldasängitamine koos vastava tseremooniaga (ja mälestamine ühise sööminguga) (EKSS)
+n	7246932	0	0	dom neg	relv	vahend, abinõu hrl. millegi saavutamiseks, millegagi toime tulemiseks
+n	1162376	0	0	dom neg	vangistus;vanglakaristus;türm	kuriteo eest kellegi vangis hoidmine
+n	23773	0	0	dom neg	vajadus;tarve;tarvidus;häda	
+n	14405931	0	0	dom neg	segadus;tohuvabohu	(inimeste, loomade kohta:) paanika, arutu siia-sinna tormamine ja sagimine
+n	780889	0	0	dom neg	vargus;varastamine	kelleltki midagi (salaja) ära võtmine ja mitte tagasiandmine
+n	9622302	0	0	dom neg	armsam;kallim;armastatu;armuke	inimene, keda armastatakse
+n	6756407	0	0	dom neg	vale;valetamine;ebatõde;võltsus	ebaõigete asjade edastamine
+n	13903576	0	0	dom neg	ääremaa;tagamaa;perifeeria;ääreala;provints;piirimaa;servik	
+n	11454591	0	0	dom neg	üleujutus;veeuputus;uputus;suurvesi;tulv;tulvavesi;uputamine	
+n	7945657	0	0	dom neg	hukkunu;surmaohver;surmasaanu	see, kes on hukkunud
+n	10182190	0	0	dom neg	hulkur;kodutu	ilma koduta inimene
+n	14359174	0	0	dom neg	köha;läkastus;köhimine;läkastamine	hingamisteede limaskestade tundenärvide ärritusest tingitud järsk häälekas reflektoorne väljahingamine
+n	2207179	0	0	dom neg	lesk;isamesilane	
+n	7522729	0	0	dom neg	argus;kartlikkus;arglikkus;pelglikkus;araveresus;arg	
+n	10035952	0	0	dom neg	narkomaan;narkar;narkootik;uimastisõltlane	narkomaania all kannatav isik
+n	773235	0	0	dom neg	pahategu;kahjutegu;pahandus;inetus	halbade tagajärgedega tegu;inetu tegu, nähtus, väljend vms.
+n	7451687	0	0	dom neg	matus	arheol. haud; maetud surnu koos kaasapandud esemetega (EKSS)
+n	3489162	0	0	dom neg	püstol	värvimiseks, metallitamiseks, keevitamiseks, montaažitöödel jm tarvitatav tööriist, millel on püstoli kuju (EKSS)
+n	2866578	0	0	dom neg	pomm;lõhkekeha;lõhkeseade;lõhkeseadeldis	ka sõj. hrl. metallkesta ja süüteseadeldisega lõhkekeha (EKSS)
+n	2202287	0	0	dom neg	sääsk	
+n	8183398	0	0	dom neg	ummik	läbipääsuta, ummistunud koht; seda tekitav esemete, inimeste jne. kogum (EKSS)
+n	812526	0	0	dom neg	pigistus;surve;haare;vajutus	
+n	7205573	0	0	dom neg	keeld;keeldumine;äraütlemine	
+n	14100769	0	0	dom neg	obstruktsioon;takistus	mingi elundi läbipääsu ummistus
+n	10008716	0	0	dom neg	hävitaja;kaotaja	
+n	14207561	0	0	dom neg	infarkt	vere juurdevoolu lakkamisest tingitud elundi v. selle osa kärbus (EKSS)
+n	13996719	0	0	dom neg	ike;surve;rõhumine;ekspluateerimine;ikestatus	rõhuv, orjastav võim v. valitsus; üldse rasked kohustused
+n	10187557	0	0	dom neg	vang	vaenlase poolt kinni võetud isik (näit. sõjavang, pantvang) (EKSS)
+n	10476086	0	0	dom neg	vang	keegi, kes on kuskil kinni, ei saa liikuda v. lahkuda (EKSS)
+n	14857151	0	0	dom neg	praht;pahn;prügi;müra	kasutud andmed seadme mälus
+n	6481320	0	0	dom neg	riviloend;rivi;järjekord	loend, mille ehitusviis ja hooldus on sellised, et järgmisena võetakse kõige varasemana salvestatud andmeelement
+n	7430211	0	0	dom neg	müra	häiring, mis mõjutab signaali ning võib moonutada selle signaaliga kantavat informatsiooni
+n	11503968	0	0	dom neg	takistus;elektritakistus;näivtakistus	
+n	14126660	0	0	dom neg	pimedus	nägemisvõime puudumine (EKSS)
+n	6410391	0	0	dom neg	kriitika	kirjanduse, kunsti, teaduse vms (uudis)teos(t)e kohta kirjutatud tutvustav, interpreteeriv ja/või hindav tekst
+n	13497135	0	0	dom neg	plahvatus;plahvatamine	millegi järsu suurenemise, kasvu kohta (EKSS)
+n	7348258	0	0	dom neg	ummiklaine;ummik;ummikas	lauge, vaibuv, mitte murduv merelaine tormi eel v. järel (EKSS)
+n	13980845	0	0	dom neg	sõda	
+n	10103485	0	0	dom neg	muulane	muust rahvusest isik (EKSS)
+n	6532095	0	0	dom neg	protest;veksliprotest	notari koostatud akt veksli tähtajaks lunastamata jätmise kohta (EKSS)
+n	5196375	0	0	dom neg	kontroll	võime asjaolusid endale meelepärases suunas juhtida
+n	4424218	0	0	dom neg	pomm	ümar v. piklik (raske) ese (EKSS)
+n	3899612	0	0	dom neg	paatina;patiin;vaserooste;hale	sinakasroheline kuni pruunikasmust kaitsev kiht pronks- ja vaskesemetel, tekib õhuniiskuse ja -hapniku toimel
+n	14544672	0	0	dom neg	pinge;pingulolek	füüsiline pingeseisund
+n	4531098	0	0	dom neg	ummik;umbpuunõu	ühest puust õõnestatud silinderjas nõu
+n	6769392	0	0	dom neg	viga	eksimus reegli, normi, standardi, fakti vms. vastu, kõrvalekaldumine õigest sooritusest (EKSS)
+v	1119169	0	0	dom neg	ründama;kallale tungima;kallale tulema;atakeerima	kellelegi (v. millelegi) kallale tungima, peale tungima (EKSS)
+v	204281	0	0	dom neg	käima;kukkuma	püsti-, istumis- vm. normaalasendit kaotama, sellest välja langema (EKSS)
+v	751567	0	0	dom neg	nõudma;käskima;käsku andma	mingit soovi, tahtmist (hrl. kategoorilises vormis v. toonis) esitama (EKSS);käsku, palvet vm. kategoorilises vormis esitama
+v	818422	0	0	dom neg	kannatama;taluma;sallima	(ebasoodsates tingimustes) vastu pidama, kellegi v. millegi suhtes rahulikult meelestatud olema;(ebasoodsates tingimustes) vastu pidama, kellegi v. millegi suhtes rahulikult meelestatud olema
+v	1785971	0	0	dom neg	vihastama;vihale ajama;pahandama	kelleski viha tekitama, viha tunnet esile kutsuma
+v	795863	0	0	dom neg	keelama;ära keelama;keelustama	kellelegi ütlema, et see ei tohi midagi teha
+v	1649999	0	0	dom neg	õhutama;agiteerima;kihutama;ässitama;kehutama	kedagi aktiivselt mõjutades mingile tegevusele vm. veenma, kutsuma v. ajama
+v	669528	0	0	dom neg	ebaõnnestuma;luhtuma;nurjuma;äparduma;viltu vedama;liiva jooksma;liivale jooksma;põhja kõrbema;põhja põlema;rappa jooksma;rappa minema;tühja jooksma;perse minema;persse minema;aia taha minema;äpardama	tegevusega taotletud eesmärki mitte saavutama
+v	01813053	0	0	dom neg	kurvastama	(kedagi) kurvaks tegema
+v	02402825	0	0	dom neg	vallandama;lõpparvet tegema;lahti laskma	
+v	02147466	0	0	dom neg	matma;kinni katma	millegi alla varjule panema, peitma
+v	00797430	0	0.375	dom neg	keelduma	mitte nõustuma midagi tegema; kellegi ettepanekut, palvet tagasi lükkama; millestki loobuma (EKSS)
+v	02629111	0.125	0.625	dom neg	karjuma	midagi tungivalt, hädasti vajama
+v	02399331	0	0.375	dom neg	alandama;degradeerima	madalamale ametikohale v. madalamasse auastmesse viima (EKSS)
+v	00804653	0.125	0.125	dom neg	hõõruma;nägelema;tülitsema	
+v	01126360	0	0	dom neg	allutama;anastama;hõivama;okupeerima	vägivaldselt, seadusevastaselt omastama
+v	02499629	0	0	dom neg	karistama;nuhtlema;represseerima	karistust määrama v. täide viima
+v	00617748	0	0.25	dom neg	eksima;viga tegema;mööda panema;viltu laskma;mööda laskma	ebaõigesti, ebatäpselt v. vääralt tegema, talitama, käituma, arvama, arvestama, tajuma vms.; mitteõigel seisukohal, arvamusel jne. olema
+v	02380980	0	0	dom neg	kartma;pelgama	midagi ebameeldivaks pidama ja seda mitte sallima, ka vältida püüdma
+v	01873942	0	0.125	dom neg	trügima;nügima;tõuklema	vähehaaval nihutades tõukama (v. tõmbama)
+v	00775156	0.25	0	dom neg	tülitsema	omavahel konfliktis olema
+v	02407338	0	0	dom neg	võitlema;sõdima;heitlema	endale mõju avaldama v pingutama
+v	02064131	0	0	dom neg	tunglema;trügima;tõuklema	
+v	02597246	0	0	dom neg	kaugenema	kaugemaks, võõramaks jääma v. muutuma
+v	00610167	0.25	0	dom neg	unustama	peast välja heitma, mälust kustutama, oma südamest välja rebima
+v	00609100	0	0.75	dom neg	unustama	meelest (ära) minema, peast välja lendama
+v	00005815	0	0	dom neg	köhima	köha kuuldavale tooma
+v	00774056	0	0.125	dom neg	jagelema;sõnelema;tülitsema;nääklema;kemplema;kraaklema;naaklema	väikeste asjade üle vaidlema
+v	00768630	0	0	dom neg	kaasama;kaasa tõmbama;hõivama;kaasa haarama	kellegagi ühinema panema, juba toimuvasse tegevusse hõivama (EKSS)
+v	00924873	0.125	0	dom neg	kahtlustama;kahtlaseks pidama	(hrl. kellegi suhtes) midagi halba, taunitavat oletama
+v	01798936	0	0.25	dom neg	pettuma	täide minemata jäänud ootuste, lootuste pärast rahulolematust tundma
+v	02402409	0	0	dom neg	kukutama	võimult, valitsemast kõrvaldama
+v	00641252	0	0	dom neg	lahutama	liitmise pöördtehet sooritama: üht liidetavat teise antud liidetava ja summa järgi leidma
+v	02543607	0	0	dom neg	hukutama;kahjustama;hävitama	hukku, hävingusse saatma, viima v. ajama
+v	01235224	0	0	dom neg	lööma	naelte, pulkade vm. sisselöömisega kinnitama, (sel teel) midagi millegagi katma
+v	00854420	0	0.25	dom neg	petma	petlik olema, eksitusse viima, alt vedama
+v	02456493	0	0	dom neg	matma;mulda sängitama;sängitama	surnut hrl. vastava kombetalitusega viimsesse puhkepaika (hauda, kalmesse jne.) toimetama
+v	01198101	0	0	dom neg	suitsetama;pahvima;suitsu tõmbama;suitsu tegema;mahvima;pahmima;tomutama;tormutama	tubaka (vm. mõnuaine) põletamisel tekkivat suitsu sisse hingama ja seejärel välja puhuma, suitsu tegema; sigarette, paberosse vms. tarvitama. (EKSS)
+v	01099592	0	0.5	dom neg	kaotama;alla jääma;lüüa saama;pähe saama	(mängus, võitluses jne.), võidetuks osutuma (EKSS)
+v	02560767	0	0	dom neg	vihtuma;vuhkima;vehkima;lõhkuma;vuhtima	midagi energiliselt tegema
+v	00834009	0	0.25	dom neg	valetama;desinformeerima;eksitama	midagi valesti näitama v. valesti esitama (EKSS)
+v	01774136	0	0.75	dom neg	vihkama	kellegi suhtes vaenulikult meelestatud olema, kellegi vastu sügavat viha tundma (EKSS)
+v	00459776	0.125	0	dom neg	viibima;edasi lükkuma;hilinema;viivituma	
+v	01993549	0	0	dom neg	kihutama;kupatama	kedagi (sunniviisil) kuhugi saatma v. midagi tegema panema
+v	00638837	0	0	dom neg	kärpima	digitaalkujul pildi liigseid osi ära lõikama
+#wordnetis vastuolulised, aga ekis positiivsed.
+a	1367651	0.75	0.125	dom pos	rõõmsameelne;rõõmus;heatujuline;rõõmsatujuline;päikseline	nii iseloomustatakse inimest, kel on peamiselt positiivsed emotsioonid
+a	1367651	0.75	0.125	dom pos	lõbus;lustlik;lustakas;ülemeelik	
+a	2035086	0.75	0.25	dom pos	moraalne;kõlbeline;eetiline;puhas;laitmatu	
+n	7500414	0.75	0.125	dom pos	eelistus;soosing	(valikuvõimaluse korral) paremaks pidamine
+a	633410	0.625	0.125	dom pos	õige;tõene	illma vigadeta; tõestab fakti v. tõde
+a	2395115	0.625	0.25	dom pos	maitsev	heamaitseline, meeldivate maitseomadustega
+a	360650	0.625	0.125	dom pos	vooruslik;puhas	nii iseloomustatakse inimest, kel on kõrged moraalsed nõudmised endale ja teistele
+a	704609	0.625	0.25	dom pos	pidulik;ülev;pidupäevane	
+a	1319874	0.625	0.25	dom pos	süütu;puhas;ilmsüütu	
+a	822115	0.625	0.25	dom pos	kerge;muretu	muredest, raskustest vaba, millestki rõhuvast vabanemise tõttu lahe
+a	715140	0.625	0.25	dom pos	demokraatlik	
+n	4663494	0.625	0.125	dom pos	hool;hoolikus;hoolsus	(hrl. komitatiivis) inimese iseloomujoon
+a	2529264	0.5	0.125	dom pos	soe;soojapidav	mõõdukalt kõrge, hrl. inimesele hästi vastuvõetava (sageli tema kehatemperatuurile suhteliselt lähedase) temperatuuriga (EKSS)
+a	1539225	0.5	0.375	dom pos	tagasihoidlik;diskreetne;pealetükkimatu	nii iseloomustatakse inimest, kes ei taha silma paista, kes eelistab varju jääda
+a	1663571	0.5	0.25	dom pos	optimistlik;lootusrikas;heausklik	nii iseloomustatakse inimest, kes jaatab elu ja usub edusse, paremasse tulevikku vms
+a	638981	0.5	0.25	dom pos	tähelepanelik	nii iseloomustatakse inimest, kes märkab ja arvestab teisi
+a	31974	0.5	0.125	dom pos	aktiivne;vilgas;reibas	nii iseloomustatakse inimest, kes tegutseb ja toimib energiliselt
+a	2459465	0.5	0.375	dom pos	õnnelik;õnnerikas;õnneküllane;õnnekas;helge;kuldne;päikesepaisteline	vaba muredest, hädadest
+a	363031	0.5	0.375	dom pos	naerune;naeruline;rõõmus	
+a	1146493	0.5	0.25	dom pos	tänulik;tänumeelne	
+a	2034828	0.5	0.25	dom pos	õige;tõene;tõepärane	
+a	417413	0.5	0.375	dom pos	puhas;kasitud	
+a	2460502	0.5	0.375	dom pos	ehtne;tõeline;puhas;ehe	
+a	2295098	0.5	0.125	dom pos	klassikaline	antiikkultuurile omane, antiikmaailma ja vanu keeli uuriv
+a	2295098	0.5	0.125	dom pos	klassikaline	proportsioonidelt, sümmeetrialt antiigi ilunormidele vastav (kehakuju, näojoonte kohta)
+a	1801327	0.5	0.375	dom pos	mõnus;meeldiv;nauditav;meelepärane	
+n	7527352	0.5	0.25	dom pos	rõõm;rõõmutunne	heaolu-, rahuldus-, lõbutundega seotud hingeline seisund, heameel
+n	7484547	0.5	0.125	dom pos	ambitsioon;unistus;pürgimus	auahne taotlus, soov midagi saavutada
+n	4820258	0.5	0.125	dom pos	selgus;arutus	kindel arusaamine mingis asjas
+n	4850117	0.5	0.25	dom pos	õiglus;õigus	asjade seis, olukord, mille puhul igaüks saab selle, mis talle kuulub (EKSS)
+a	1687167	0.375	0.125	dom pos	uus;vastne;värske;äsjane;uudne	midagi, milletaolist pole varem nähtud
+a	1511854	0.375	0.375	dom pos	intensiivne;aktiivne;äge	suurel määral tugev, mõjus, hoogne
+a	262792	0.375	0.125	dom pos	julge;kartmatu;mehine;vapper;uljas	nii iseloomustatakse inimest, kelles pole mingis tegevuses hirmu
+a	839619	0.375	0.375	dom pos	tubli;väärt;korralik	nii iseloomustatakse inimest, kel on võimed ja oskused tegutseda hästi
+a	640106	0.375	0.375	dom pos	viisakas;galantne;džentelmenlik;rüütellik;kavalerlik	
+a	1042491	0.375	0.25	dom pos	pidulik;tseremoniaalne	
+a	910101	0.375	0.25	dom pos	tasane;sile;ühetasane;lausik;lauskjas;lausk;laudsile;laudtasane	
+a	37457	0.375	0.5	dom pos	aktiivne;mõjuv;toimiv	
+a	1067694	0.375	0.625	dom pos	värske;äsjane;äsjavalminud	toidu vms kohta
+a	2057829	0.375	0.375	dom pos	kaitstud;kindel;ohutu	asukoha kohta
+n	36762	0.375	0.125	dom pos	saavutus;kordaminek;õnnestumine;täistabamus	märkimisväärne kordaminek
+n	7510348	0.375	0.25	dom pos	üllatus	rõõmus imestus millegi ootamatu peale
+n	5016753	0.375	0.25	dom pos	soojus;soe	mitte külm
+n	4857083	0.375	0.5	dom pos	julgus;vaprus;kartmatus;vahvus;uljus	
+n	5768806	0.375	0.125	dom pos	unistus	emotsionaalne kujutluspilt soovitavast tulevikust, mõte millegi ihaldusväärse loodetavast kättesaamisest v. teostumisest
+a	754682	0.25	0.375	dom pos	töökas	nii iseloomustatakse inimest, kes töötab (valmistab, organiseerib vms) rohkem kui keskmiselt teised
+a	1998730	0.25	0.5	dom pos	hooletu;muretu	nii iseloomustatakse inimest, kes ei muretse millegi pärast ega kahtle milleski
+a	1939984	0.25	0.25	dom pos	realistlik;mõistlik	nii iseloomustatakse inimest, kes on tõsiolusid arvestav, kainelt tegelikkusesse suhtuv, asjalikult mõtlev
+a	604897	0.25	0.25	dom pos	mugav;käepärane	
+a	1367431	0.25	0.25	dom pos	pidupäevane;pidu-;pidulik;peo-	
+a	229371	0.25	0.625	dom pos	parim;ületamatu	
+a	919445	0.25	0.5	dom pos	vankumatu;kõigutamatu;kindel;kõikumatu	
+a	1074650	0.25	0.125	dom pos	sõbralik	
+n	6689297	0.25	0.125	dom pos	luba;nõusolek	kelleltki saadud suuline v. kirjalik nõusolek millekski
+n	4712735	0.25	0.25	dom pos	kooskõla;vastavus	(omavaheline) (kokku)sobivus, mittevastuolulisus
+n	7505047	0.25	0.5	dom pos	hool	mure, et miski edeneks, laabuks, teoks saaks; (asi) ajada, toimetada, (töö) teha jms.
+a	1532261	0.125	0.125	dom pos	mõistlik	(millegi kohta:) korralik, kõlblik, sobiv, selline, nagu olema peab
+a	1826828	0.125	0.25	dom pos	tugev;jõuline	täis jõudu ja tugevust
+a	529657	0.125	0.5	dom pos	rahulik;tasane;rahumeelne;rahuarmastav	nii iseloomustatakse inimest, kes valitseb end ja pole kiiresti erutuv ega ägestuv
+a	1922763	0.125	0.625	dom pos	vaikne;leebe;vagur;vaikseloomuline;vaga;tasane	
+a	1735346	0.125	0.25	dom pos	hoolitsev;tähelepanelik	nii iseloomustatakse inimest, kes on oma tegudega teiste suhtes tähelepanelik ja vastutulelik
+a	1618895	0.125	0.5	dom pos	loomulik;iseendastmõistetav;iseenesestmõistetav	
+a	1595050	0.125	0.375	dom pos	loomulik;naturaalne;looduslik	
+a	581401	0.125	0.5	dom pos	silmatorkamatu;tagasihoidlik;tähelepandamatu;märkamatu;lihtne	selline, keda v. mida ei panda tähele (EKSS)
+a	211564	0.125	0.375	dom pos	sile;karvutu	
+a	2376277	0.125	0.375	dom pos	sümpaatne	
+n	7515790	0.125	0.5	dom pos	rahu;rahulikkus;meelerahu	ärevuse v. stressi puudumine
+n	171249	0.125	0.25	dom pos	trikk;riugas;vigur;kook;riuge	iga nutikas (pettev) manööver
+#wordnetis vastuolulised, aga ekis neutraalsed.
+a	901060	0.75	0.25	dom neutr	basaalne;esmane	aluseks olev
+a	1852174	0.5	0.125	dom neutr	esmane;primaarne;esmatähtis	
+a	1755627	0.5	0.125	dom neutr	ajutine	mittealatine, teatavaks v. mõneks ajaks arvestatud, mõnda aega kestev
+a	764484	0.5	0.375	dom neutr	otsekohene;sirgjooneline;sirge;otsene;vahetu	
+a	1723308	0.5	0.125	dom neutr	erapooletu;õiglane	
+v	2732292	0.5	0.25	dom neutr	maksma;tarvitsema;pruukima;tasuma	(hrl. da-infinitiiviga) mõtet olema, otstarbekaks, vajalikuks, heaks osutuma, maksma (EKSS)
+a	1672607	0.375	0.5	dom neutr	korraline;ordinaarne;tavaline	kindla korra järgi ette nähtud
+a	1101891	0.375	0.5	dom neutr	mittespetsiifiline;tavaline;harilik	
+a	1934026	0.375	0.375	dom neutr	objektiivne;erapooletu;neutraalne	mitte kumbagi poolt, mitte kedagi eelistav
+a	684782	0.375	0.125	dom neutr	otsustav;määrav	eriti oluline
+a	645169	0.375	0.125	dom neutr	tõenäoline;sobiv	
+n	8552138	0.375	0.125	dom neutr	piirkond;territoorium;rajoon	ala, mida iseloomustavad teatud administratiivsed, majanduslikud vm. tunnused
+n	796886	0.375	0.25	dom neutr	üritus;ettevõte;ettevõtmine	ettevõetav v. -võetud tegu
+n	5637965	0.375	0.125	dom neutr	käsi	koos laiendiga iseloomustab tegutsemise, toimimise, suhtumise laadi
+n	4931428	0.375	0.125	dom neutr	käekiri	kellelegi omane, iseloomulik (loominguline) väljenduslaad (EKSS)
+n	8552138	0.375	0.125	dom neutr	jaoskond	maa-alaline alljaotus (hrl. elanikkonna teenindamist, maa-ala hooldamist silmas pidades) (EKSS)
+v	2542795	0.375	0.125	dom neutr	alluma;kuuletuma;alistuma	kellegi õpetust, nõuannet, käsku jne. arvestama ning sellele vastavalt toimima
+v	2542795	0.375	0.125	dom neutr	kuuletuma;kuulama;alluma;sõna kuulama	tegema seda, mida tahetakse
+a	1673061	0.25	0.625	dom neutr	keskpärane;tavaline;lihtne;keskmine	nii iseloomustatakse inimest, kel pole milleski erilisi andeid, kes pole mitte millegi poolest silmapaistev
+a	6032	0.25	0.5	dom neutr	relatiivne;suhteline	
+a	1673815	0.25	0.5	dom neutr	tavaline;harilik;tava-;proosaline;lihtlabane	
+a	692762	0.25	0.125	dom neutr	sügav	pikkade tugevate hingetõmmete, ohete vms. kohta
+a	2080937	0.25	0.375	dom neutr	adekvaatne;rahuldav;vastuvõetav;vastav	keskeltläbi kõlblik
+n	410247	0.25	0.125	dom neutr	tava;komme;harjumus;viis;uusus	väljakujunenud teguviis mingil kombel toimida või käituda
+n	5032918	0.25	0.125	dom neutr	iseloom;visadus;püsivus	tugev tahe
+n	4959230	0.25	0.25	dom neutr	toon	värvitoon, värving, värvivarjund; k. värvi koloristlik nüanss vastandina valöörile (EKSS)
+n	4748836	0.25	0.625	dom neutr	erinevus;vahe;erisugusus;erisus;lõhe;lahknevus	mingid omadused vm., mis on teistmoodi, mis ei kattu
+n	428000	0.25	0.125	dom neutr	pidu;pidustus;pidutsemine;üritus	mingi sündmuse tähistamiseks korraldatav pidulik toiming või toimingute kogum
+n	157081	0.25	0.5	dom neutr	mõjutamine;mõju	millegi või kellegi tegevuse, seisundi vms põhjustamine
+n	4857490	0.25	0.25	dom neutr	närv	(inimese psüühika ja selle ilmingute, nagu käitumise, tahte, vaimse suutlikkuse jne. kohta, eriti mitmesugustes väljendites, mis räägivad närveerimisest, ärritumisest, enesevalitsuse v. psüühilise tasakaalu kaotamisest)
+n	5032565	0.25	0.125	dom neutr	närv	millekski vajalik kutsumus, anne, võime; püsi, kannatlikkus, enesevalitsemine vm.
+n	5703307	0.25	0.25	dom neutr	vaade;silmavaade;pilk	kellelegi, millelegi suunatud vaatamine
+n	523513	0.25	0.25	dom neutr	sport;sportimine;kehakultuur;spordiala	kehalist jõupingutust nõudev ja võistluselementi sisaldav meelelahutus
+n	6281040	0.25	0.125	dom neutr	levi;levik	
+n	13346773	0.25	0.375	dom neutr	ravikindlustus;tervisekindlustus	
+n	3137228	0.25	0.125	dom neutr	ülekäigurada;ülekäik;ülekäigukoht	
+a	2386612	0.125	0.75	dom neutr	lühike;lühikesevõitu;lüheldane;lühikene	kasvult madal
+a	15589	0.125	0.375	dom neutr	pikk	ruumiliselt (suhteliselt) suure pikkuse v. ulatusega
+a	1674926	0.125	0.375	dom neutr	eranditu;tavaline	
+a	776406	0.125	0.75	dom neutr	juhuslik	
+a	1076634	0.125	0.25	dom neutr	seltskondlik;sotsiaalne	seltskonnaga seotud, seltskonnas esinev, seltskonnale omane
+a	1513776	0.125	0.25	dom neutr	tihe	silmaga läbistamatu kohta
+n	1503061	0.125	0.25	dom neutr	lind;tiivuline;suleline;sirk;tsirk;tsirguke;tsirgukene;linnuke;linnukene	tiibade ja sulgkattega kahejalgne selgroogne loom
+n	26192	0.125	0.125	dom neutr	tunne;tundmus	afektiivsete ja emotsionaalsete kogemuste psühholoogiline avaldumine
+n	14449126	0.125	0.125	dom neutr	vajadus	seisund, mis nõuab leevendamist
+n	5810948	0.125	0.25	dom neutr	objekt;käsitlusaine	isik, olend, ese v. nähtus, kellele v. millele on suunatud kellegi tegevus, tähelepanu, mõtted, tunded vm.
+n	10157744	0.125	0.125	dom neutr	hani	rumal, lihtsameelne inimene, eeskätt naine (EKSS)
+n	4982207	0.125	0.375	dom neutr	vaikus;hääletus;vaikimine	hääle puudumine
+n	644503	0.125	0.125	dom neutr	uurimus;uurimine;uurimistegevus	detailne läbivaatamine
+n	15113229	0.125	0.125	dom neutr	ajavahemik;periood	millegi iseloomulikuga määratud ajalõik
+n	12992868	0.125	0.25	dom neutr	seen	valmisolevast orgaanilisest ainest toituv piiramatu kasvuvõimega klorofüllita organism (EKSS)
+n	1503061	0.125	0.25	dom neutr	hall-kärbsenäpp;kärbsenäpp;tikk	väike tuhkhalli v. -pruuni sulestikuga värvuline (Muscicapa)
+n	3120491	0.125	0.125	dom neutr	mänguväljak;plats	sportmängude mängimiseks mõeldud väljak
+n	7164163	0.125	0.25	dom neutr	tundevarjund;tundevärving;tundetoon;toon;noot	
+n	5810948	0.125	0.25	dom neutr	päevakord	(kohakäänetes) (millegi aktuaalse, tähelepanu keskmes, arutlusel oleva, kiiret lahendust nõudva vms. kohta) (EKSS)
+n	15113229	0.125	0.125	dom neutr	aken	vaba ajahetk, mis jääb muu (põhi)tegevuse sisse
+n	1010245	0.125	0.125	dom neutr	madrus	madalaim auaste paljude riikide sõjalaevastikus (EKSS)
+n	5810948	0.125	0.25	dom neutr	aadress	piltl (kirjutise, teose, kriitika vms objektist rääkides) (EKSS)
+v	2191766	0.125	0.375	dom neutr	seisma;laagerdama	hrl. toiduaineid v. alkohoolseid jooke (maitse)omaduste parandamiseks kindlates tingimustes pikka aega seista laskma
+#wordnetis vastuolulised, aga ekis negatiivsed.
+a	65791	0.625	0.25	dom neg	riskantne;ohtlik	kardetav; nurjuda võiv
+n	14122497	0.625	0.125	dom neg	gripp;influentsa	äge viiruseline nakkushaigus palaviku ja mitmesuguste haigusnähtudega hingamiselundeis, närvisüsteemis ja mujal
+a	1373728	0.5	0.375	dom neg	halb;ebalahke;ebasõbralik	headuse v. lahkuse puudumine
+a	888765	0.5	0.375	dom neg	kade	teiste saavutuste, edu, heaolu vms. puhul meelehärmi tundev ning kõike endale ihkav; seda meelelaadi väljendav
+a	899226	0.5	0.375	dom neg	laialivalguv;ebaselge;segane	
+a	70583	0.5	0.5	dom neg	ebaesteetiline;inetu;maitsetu	
+a	1140514	0.5	0.125	dom neg	kohmakas;piinlik;ebasobiv	
+a	655779	0.5	0.25	dom neg	otsustav;kriitiline;pöördeline	
+a	915556	0.5	0.375	dom neg	täpne;range;kõrvalekaldumatu	üksühene, hoolikas, kõiki nõudeid arvestav
+n	4853948	0.5	0.25	dom neg	korruptsioon	riigiametniku või poliitiku poolne ametiseisundi kuritarvitamine ning äraostetavus (altkäemaksu vm võtmine)
+a	2164402	0.375	0.5	dom neg	ebaoluline;tähtsusetu	miski, mis ei oma tähtsust
+a	225099	0.375	0.625	dom neg	tige;kuri;õel;tigedaloomuline	nii iseloomustatakse inimest, kes loomu poolest on teiste suhtes (väga) pahatahtlik
+a	113818	0.375	0.375	dom neg	vihane;tige;pahane;kuri	nii iseloomustatakse inimest, kes tunneb tihti viha ja väljendab seda oma tegevuses
+a	162863	0.375	0.125	dom neg	häbelik;arglik;kohmetu;uje;arg;kartlik;pelglik	
+a	1402763	0.375	0.25	dom neg	kuritegelik;seadusevastane;kriminaalne;kaelakohtulik	(keskajast pärit väljend)
+a	2450512	0.375	0.5	dom neg	mürgine;kihvtine;toksiline	
+a	169432	0.375	0.25	dom neg	inetu;kole;näotu;ilutu	
+a	344125	0.375	0.25	dom neg	muutuv;muutlik	muutus(t)ele alluv
+a	1473353	0.375	0.125	dom neg	tühine;tähtsusetu;väike;väheväärtuslik	ebaoluline, suurema mõju, kaalukuse v. ulatuseta, kõrvaline
+n	14070360	0.375	0.25	dom neg	tõbi;haigus	tervise halvenemine või häire
+n	5647156	0.375	0.375	dom neg	lollus;rumalus;juhmus;tölpus;tölplus;totakus	
+n	14070360	0.375	0.25	dom neg	arvutiviirus;viirus	tarkvara ja andmeid hävitav v. andmetöötlust häiriv väike programm, mis end arvutisüsteemides ise paljundab (EKSS)
+n	14070360	0.375	0.25	dom neg	asteenia;nõrkus;jõuetus;närbus	psüühilise, kehalise ja emotsionaalse energia vaegus
+n	8552138	0.375	0.125	dom neg	provints	allutatud maa-ala (allutanud maa haldusüksusena) (EKSS)
+a	1188762	0.25	0.5	dom neg	raske	(olukorra, tunnete kohta:) valuliselt kurb, murelik, sünge
+a	2561888	0.25	0.25	dom neg	kitsas	ristsuunas väikese ulatusega (pikliku eseme, ruumi, maa-ala, kehaosa vms. puhul)
+a	1342949	0.25	0.25	dom neg	ükskõikne;apaatne;tuim;osavõtmatu;paksunahaline	nii iseloomustatakse inimest, kel puuduvad soovid, huvid, tunded jms
+a	430191	0.25	0.625	dom neg	ebaselge;segane;hämav	nii iseloomustatakse inimest, kellest ei saada aru
+a	266420	0.25	0.625	dom neg	vaimuvaene;vaimutu;lahja;kahvatu;igav	vähese intensiivsusega
+a	34322	0.25	0.125	dom neg	loid;apaatne;osavõtmatu;flegmaatiline;inertne;innutu;aktiivsusetu;uimane;unine;passiivne;teovõimetu;halvatud;indiferentne	
+a	533851	0.25	0.625	dom neg	arusaamatu;mõistetamatu;käsitamatu;arusaadamatu;seletamatu;tabamatu	
+a	165766	0.25	0.375	dom neg	uimane;segane	
+a	1344963	0.25	0.5	dom neg	igav;ebahuvitav;kuiv;mage	
+a	464962	0.25	0.375	dom neg	segane;ebakonkreetne;umbmäärane	
+a	1611067	0.25	0.5	dom neg	tervistkahjustav;ebatervislik;kahjulik;tervisekahjulik	
+a	1269506	0.25	0.625	dom neg	nälginud;näljane	pikka aega söömata olnud
+a	704360	0.25	0.5	dom neg	üksildane;üksik	hingeliselt üksi, sõpradeta olev
+n	14323683	0.25	0.5	dom neg	valu;valutamine	füüsilise vigastuse v. haiguse sümptom
+n	7181935	0.25	0.5	dom neg	vaidlus;vaidlemine	väitlus eriarvamuste üle; diskussioon
+n	13933560	0.25	0.375	dom neg	kriis;kriisiolukord	raske, terav, komplitseeritud olukord, ohtlik, vastuoludest lõhestatud seisund
+n	13933560	0.25	0.375	dom neg	kriis	kõrgkonjunktuuris oleva majanduselu järsk häire, lühikese ajaga toimuv kokkuvarisemine, millele sageli järgneb aastaid vältav surutis
+n	5683582	0.25	0.25	dom neg	segadus;nõutus;ähm	(tundemaailma kohta:) häiritud olek
+n	14448333	0.25	0.375	dom neg	armetus;kehvus;viletsus;vaesus;tühi;nigelus	kehv v. ebameeldiv seisund täna ebaõnnele v. ahistusele
+a	1627965	0.222	0.778	dom neg	halb	moraalselt ja eetiliselt ebameeldiv
+a	605128	0.125	0.75	dom neg	ebamugav	(kehaliste aistingutega seoses)
+a	633778	0.125	0.5	dom neg	vale;väär;ebaõige	ei kinnita fakti v. tõde
+a	1336837	0.125	0.25	dom neg	rumal;loll;arutu	nii iselomustatakse inimest, kel jääb puudu intelligentsusest ja tarkusest
+a	1801600	0.125	0.625	dom neg	ebameeldiv;ebasümpaatne;antipaatne;vastumeelne	nii iseloomustatakse inimest, kes hindajale ei meeldi
+a	1050890	0.125	0.875	dom neg	ennasthaletsev;hale;nutune	nii iseloomustatakse inimest, kes tavaliselt ei ole iseendaga rahul
+a	755482	0.125	0.5	dom neg	hooletu;hoolimatu;ükskõikne;vastutustundetu	
+a	968010	0.125	0.375	dom neg	imelik;veider;kentsakas;kummaline;eriskummaline;imevärki;pentsik;kurioosne	
+a	1269073	0.125	0.125	dom neg	näljane;näljas;söömata	
+a	2541302	0.125	0.75	dom neg	haige;tõbine	
+a	534524	0.125	0.5	dom neg	selgusetu;tume;segane;hämar	
+n	14449405	0.125	0.125	dom neg	puudus;vaegus;nappus;defitsiit;puudujääk	olukord, kus vajatakse midagi, mida ei ole ja mida ei ole ka võimalik saada
+n	14540765	0.125	0.625	dom neg	oht;hädaoht;ohtlikkus	olukord, kus on võimalik  ebaõnn, õnnetus, ebameeldivused vms
+n	9543353	0.125	0.375	dom neg	kurat;saatan;sarvik;vanakuri;põrguline;Lutsifer;vanakurat;pagan;vanapagan;saadan;juudaline;põrglane	religioonis jumala vastane
+n	6782680	0.125	0.25	dom neg	oletus;kahtlus	
+n	7483439	0.125	0.125	dom neg	vastuolu;konflikt;vasturääkivus;vastakus	lahkheli, erinevus millegi vahel
+n	13983515	0.125	0.5	dom neg	pimedus;pime	päeva- v. kunstliku valguse puudumine v. selle vähesus (ka sellest hõlmatud ala, ruumi kohta)
+n	7483439	0.125	0.125	dom neg	kokkupõrge;konflikt	nähtuste omavaheline teravasse vastuollu sattumine (EKSS)
+n	7510495	0.125	0.5	dom neg	hämmeldus;hämming;segadus	
+n	7502669	0.125	0.625	dom neg	vastumeel;vastumeelsus;tõrge;protest	
+n	5204982	0.125	0.625	dom neg	nõrkus;nõrgastus;jõuetus	inimese v. looma kehalise tervise kohta
+n	758972	0.125	0.75	dom neg	viha;vihapidamine;ira	ülemäärane ja kontrollimatu viha, üks seitsmest surmapatust
+n	14543231	0.125	0.125	dom neg	oht	potentsiaalne arvutiturbe rikkumine
+n	7417405	0.125	0.625	dom neg	avarii	mingi mehhanismi, seadme vms. suurem rike (EKSS)
+v	2632838	0.125	0.25	dom neg	puuduma;ära olema	(väljendab kellegi v. millegi mitte kohal olemist:) kuskilt ära olema, mingis kohas mitte viibima, mitte paiknema, mitte asetsema.
+v	2671761	0.125	0.375	dom neg	puuduma;puudu jääma	olema vähem kui vaja, ebapiisavalt olema
+#wordnetis negatiivsed, aga ekis positiivsed.
+a	2340458	0	0.875	dom pos	väljapaistmatu;tähelepandamatu;tagasihoidlik;silmapaistmatu	väiksem, madalamal astesev, alam olev
+a	858558	0	0.75	dom pos	meelekindel;kindlameelne;stoiline;kindel	nii iseloomustatakse inimest, kes järeleandmatult ja rahulikult püsib oma veendumustes, seisukohtades, kavatsustes
+a	476819	0	0.75	dom pos	mugav;hubane;kodune;mõnus;komfortne;õdus	
+a	1532912	0	0.75	dom pos	tagasihoidlik;väike	
+a	1272176	0	0.625	dom pos	mugav	nii iseloomustatakse inimest, kes on laisapoolne ja ei soovi pingutada
+a	1564315	0	0.625	dom pos	vaikne;liikumatu	(liikumise kohta:) vähese kiirusega, aeglane
+r	18781	0	0.625	dom pos	üsna;kaunis;kaunikesti;üpris;päris;küllaltki;õige;üsnagi	intensiivistab omadust; päris palju; pigem rohkem kui vähem
+a	106821	0	0.5	dom pos	vähene;kasin;napp;pisku;ebapiisav;tagasihoidlik	
+a	466725	0	0.5	dom pos	sile;tasane	
+a	1593649	0	0.5	dom pos	terve;normaalne	psüühiliselt terve
+a	2109678	0	0.5	dom pos	iseseisev;sõltumatu;indie	mitte kellelegi alluv, mitte kellestki sõltuv, toetust mittevajav
+a	841403	0	0.5	dom pos	karmikäeline;jõuline	
+n	15137556	0	0.5	dom pos	vaba päev;puhkepäev	puhkamise päev
+n	14445379	0	0.5	dom pos	mugavus;komfort	rahuldust, mõnu pakkuv, head enesetunnet tekitav, kõike häirivat välistav omadus
+n	14288871	0	0.5	dom pos	maasikas	ajutine sinikas inimese nahal, mis on sinna tekkinud suudlemise tulemusel
+v	2669789	0	0.5	dom pos	jätkuma;piisama;jaguma;aitama;mõikama;avitama;küündima	küllaldaselt olemas olema
+a	2058529	0	0.375	dom pos	turvaline;ohutu;riskivaba;kaitstud	
+a	417978	0	0.375	dom pos	kordaarmastav;puhtust hoidev;puhas	
+a	934199	0	0.25	dom pos	odav;odavahinnaline;soodne	vähe (raha) maksev, madala hinnaga
+a	1535709	0	0.25	dom pos	kaasaegne;nüüdisaegne;tänapäevane	
+n	42311	0	0.25	dom pos	asendamine;uuendamine;väljavahetamine;uuendus	
+n	14481929	0	0.25	dom pos	võimalus;võimalikkus	võime toimuda, olla v. tõeks osutuda
+n	7298154	0	0.25	dom pos	üllatus;hämmastus	ootamatu (rõõmu või ka kurbust) valmistav sündmus
+a	1454636	0	0.125	dom pos	nõrk;mahe;vaikne	halvasti v. vaevalt kuuldav
+a	847861	0	0.125	dom pos	fakultatiivne;mittekohustuslik;vabatahtlik;valikuvaba	
+a	1034153	0	0.125	dom pos	loomupärane;loomuomane;loomukohane;loomulik	
+a	1758339	0	0.125	dom pos	resistentne;vastupanuvõimeline;vastupanev;vastupidav;ravimresistentne	meditsiini valdkonda kuuluv
+n	7628870	0	0.125	dom pos	kook	küpsetis, mis on tehtud munadest, suhkrust ja jahust koosnevast taignast
+n	7180183	0	0.125	dom pos	kooskõla;üksmeel	arvamuste kokkulangevus
+n	4617562	0	0.125	dom pos	isiksus;personaalsus	inimese individuaalne olemus v. laad, tema käitumist määravate omaduste kogum
+n	7510923	0	0.125	dom pos	ootus;lootus;ootamine	tunne, et miski hakkab varsti juhtuma
+n	1318894	0	0.125	dom pos	lemmikloom	kodus ilu pärast peetav loom v. lind; kellelegi eriti meeldiv, südamelähedane, armas loom (EKSS)
+v	78760	0	0.125	dom pos	hoolitsema;hoolt kandma	kellegi v. millegi vajadusi rahuldama, kedagi hoolega ümbritsema
+#wordnetis negatiivsed, aga ekis neutraalsed.
+a	1413247	0	0.75	dom neutr	tõenäoline;arvatav;oletatav;oodatav;eeldatav;prognoositav	
+a	2152985	0	0.75	dom neutr	ainus;ainuke;välistav	mittekaasaarvatav
+v	1128193	0	0.75	dom neutr	kaitsma;valvama;turvama;kaitsema	kallaletungi, rünnakut, vägivalda, ohtu tõrjuma v. vältida püüdma
+a	2503305	0	0.625	dom neutr	sihipäratu;mittesihipärane;plaanitu;juhuslik	
+a	593374	0	0.625	dom neutr	ebaregulaarne;korrapäratu;ebakorrapärane;juhuslik;episoodiline;sporaadiline	
+a	731606	0	0.625	dom neutr	sõltumatu;erapooletu	mõne partei või huvigrupi mõjudest vaba
+a	1759527	0	0.625	dom neutr	alaline;regulaar-;tegev-	
+a	2119716	0	0.625	dom neutr	tõsine;tõeline;tegelik	mitte kergelt võetav
+n	8562067	0	0.625	dom neutr	maa	selle planeedi pind kui kõige elusa asupaik vastandina atmosfäärile, taevale v. (usulistest kujutelmadest lähtunud väljendites) taevariigile ja põrgule
+n	5942888	0	0.625	dom neutr	veendumus;äratundmine;veene	
+n	8390511	0	0.625	dom neutr	reserv;reservvägi	(komandöri käsutuses) varuks olev(ad) väeosa(d), lahinguvarustus jm. vara, mis lastakse käiku vastavalt vajadusele
+n	5821246	0	0.625	dom neutr	erand;abnormsus	milleski üldisest v. normaalsest kõrvalekalduv v. erinev nähtus, omadus, asi, isik vms.
+n	10441410	0	0.625	dom neutr	rebane	üliõpilaskorporatsiooni noorliige v. esimese kursuse üliõpilane
+n	5821246	0	0.625	dom neutr	erand;erandolek;erandolukord	
+n	4076533	0	0.625	dom neutr	repliik	kunstniku omakäeline kordus oma tööst
+a	1853039	0	0.5	dom neutr	otsene;vahetu;direktne	
+a	699521	0	0.5	dom neutr	baasiline;põhiline;peamine	
+n	5686955	0	0.5	dom neutr	keerukus;raskus	keerukas probleem, asjaolu vms
+n	10387936	0	0.5	dom neutr	polikliinik	suurem haiglavälist arstiabi andev profülaktika- ja raviasutus
+n	7014752	0	0.5	dom neutr	nutt;nutmine;itk;pill;tönn;töinamine;töin	pisaratega nuuksumine
+n	4524142	0	0.5	dom neutr	hobune	neljajalgne polsterdatud hüppe- ja hooglemisriist
+a	1688757	0	0.375	dom neutr	kulunud;äraleierdatud;käibe-;trafaretne;šablooniline;šabloonne;üldtuntud;lame;labane;triviaalne;banaalne;standardne;odav;harilik	
+a	974404	0	0.375	dom neutr	piiratud;tähtajaline	
+a	1813183	0	0.375	dom neutr	esialgne;algeline;lõpetamata;visandlik;mittelõplik	selline, mida võidakse hiljem täiendada ja muuta
+r	180611	0	0.375	dom neutr	omapead;iseseisvalt;ise	omal algatusel, tahtel v. volil, nõu v. luba küsimata, iseenese tarkusest; kõrvalise abita
+n	33615	0	0.375	dom neutr	mõõde;mõõt;suurus	mõõtmise v. arvutamise teel saadud näitaja
+n	5121418	0	0.375	dom neutr	arv;hulk	loendatavate asjade määratud või määramatu kogus
+n	15388	0	0.375	dom neutr	loom	elusorganism, mida tavaliselt iseloomustab vabatahtliku liikumise võime ja närvisüsteemi olemasolu
+n	4674715	0	0.375	dom neutr	nägu;ilme;pale	välimus, väljanägemine; vorm, kuju v. ilming
+n	4962784	0	0.375	dom neutr	punasus;puna;punane;verevus	punane-olek (EKSS)
+n	14015361	0	0.375	dom neutr	seismine;seis;seisak	(sunnitud) paigal- v. tegevuseta olek
+n	891850	0	0.375	dom neutr	kursus;klass	lühiajalised õpingud (loengute, õppetundide, harjutuste sarjana) mingil alal ettevalmistuse andmiseks, kvalifikatsiooni tõstmiseks jne.
+n	15388	0	0.375	dom neutr	metsloom;uluk	metsik, kodustamata loom
+n	4680027	0	0.375	dom neutr	pilk	vaatamisviis, silmade ilme (hrl. koos lähemalt iseloomustava sõnaga)
+n	15388	0	0.375	dom neutr	elukas;loom;olend	
+n	7134850	0	0.375	dom neutr	veebivestlus;sõnumivestlus;vestlus;jutt	
+n	5121418	0	0.375	dom neutr	kümmekond	arvult umbes kümme, kümne ringis (EKSS)
+n	33615	0	0.375	dom neutr	moment	iseloomustav suurus, tihti väljendatav kahe suuruse korrutisena (EKSS)
+n	5121418	0	0.375	dom neutr	murd	inimeste, sõidukite vms. (tunglev) hulk (EKSS)
+v	213712	0	0.375	dom neutr	keetma	vedelikku v. vedelikus olevat ainet keeda laskma (mingi keemiliste ainete v. asjade kohta)
+a	395626	0	0.25	dom neutr	punane	maasikate, pohlade, vere vms. värvi
+a	212173	0	0.25	dom neutr	karvane;karune	
+a	1215935	0	0.25	dom neutr	sügav;madal	täidlase, kumeda, kõmiseva hääle v. heli kohta
+a	2248984	0	0.25	dom neutr	sotsiaalne;seltsiv	seltsi armastav; inimestega kiiresti kohanev
+r	31515	0	0.25	dom neutr	enam	(AEG) sellest peale (eitavas lauses) (EKSS)
+n	17222	0	0.25	dom neutr	taim	elusorganism, mida iseloomustab vaba liikumise võime puudumine
+n	142665	0	0.25	dom neutr	võrdlemine;kõrvutamine;võrdlus	
+n	4965661	0	0.25	dom neutr	kollasus;kollane;kold	kollane olek (EKSS)
+n	7848093	0	0.25	dom neutr	hapukoor	hapendatud koor
+n	728849	0	0.25	dom neutr	projekt	konkreetne terviklik tööülesanne vm. ettevõtmine
+n	13771290	0	0.25	dom neutr	paar	väike ebamäärane number
+n	9924742	0	0.25	dom neutr	eraisik;tsiviilisik;tsivilist	mittemilitaarne isik v. kodanik
+n	17222	0	0.25	dom neutr	sort;taimesort	hrl. aretuse tulemusena saadav majanduslike ja bioloogiliste omaduste ning morfoloogiliste tunnuste poolest sarnaste taimede kogum (EKSS)
+n	7333649	0	0.25	dom neutr	minek	(eemalduv) liikumine, minemine
+n	7940552	0	0.25	dom neutr	riik	kõrgeim üksus elusa looduse süstemaatikas (regnum)
+n	10227266	0	0.25	dom neutr	juunior;jun	(isikunime järel hrl. poja eristamiseks isast:) noorem
+n	14292090	0	0.25	dom neutr	luumurd;fraktuur;murd	
+n	10227266	0	0.25	dom neutr	juunior	noorte ja täiskasvanute vahelisse vanuseklassi kuuluv sportlane(EKSS)
+n	4674861	0	0.25	dom neutr	vaade	objekti, dokumendi vms suvaline esitus ekraanil
+n	11986306	0	0.25	dom neutr	salat	rohkesti piimmahla sisaldav väike rohttaim, ka salatitaimena kasvatatav köögiviljataim (Lactuca).
+n	5262120	0	0.25	dom neutr	habemik;habemega;habe	
+n	6608728	0	0.25	dom neutr	vaht	sisutu (mõnikord ka ilutsev) jutt
+n	14956661	0	0.25	dom neutr	puder;püdelik	pudrutaoliselt pehme mass (EKSS)
+v	2371811	0	0.25	dom neutr	vaeva nägema;pingutama;punnitama;ponnistama	millegi saavutamiseks end kokku võtma
+v	52374	0	0.25	dom neutr	käima	teat. moel riietatud olemise, teat. riietuse kandmise kohta (EKSS)
+v	815686	0	0.25	dom neutr	kostma;vastu kostma	hrl. kellegi küsimuse, pärimise, jutu peale (vastuseks) midagi ütlema, lausuma, sõnama
+v	815686	0	0.25	dom neutr	vastama;vastust andma	hrl. küsimusele reageerima
+a	375969	0	0.125	dom neutr	roheline	muru, puulehtede, taimede värvi
+a	1731351	0	0.125	dom neutr	praegune;olevikuline;nüüdne	
+a	1037885	0	0.125	dom neutr	rahvusvaheline;internatsionaalne	
+a	546646	0	0.125	dom neutr	lühike;sisutihe	
+a	2874876	0	0.125	dom neutr	kommunistlik;punane;bolševistlik	
+a	2101942	0	0.125	dom neutr	kollane;madal	
+a	1578312	0	0.125	dom neutr	primaarne;põhiline;esmatähtis;peamine	esmajärgulise tähtsusega, kõige tähtsam
+a	1578312	0	0.125	dom neutr	fundamentaalne;peaasjalik;põhiline;põhimine	
+a	1861205	0	0.125	dom neutr	avalik	ühiskondlikku v. halduslikku sfääri kuuluv, sellesse puutuv v. seda haarav
+r	33922	0	0.125	dom neutr	peagi;peatselt;pea	(AEG) lühema ajavahemiku jooksul tulevikus
+n	828082	0	0.125	dom neutr	katmine;kate	
+n	13791389	0	0.125	dom neutr	ühendus;seos;side	suhe asjade v. sündmuste vahel
+n	14966667	0	0.125	dom neutr	õli	veega mitte lahustuv paksem vedelik
+n	5650579	0	0.125	dom neutr	tähelepanu	vaimse keskendumise võime v. omadus
+n	7484265	0	0.125	dom neutr	soov;iha;janu;himu;igatsus;ihaldus;ihk;kihm	emotsioon, mis kaasneb rahuldamata oleku v. seisundiga
+n	4992163	0	0.125	dom neutr	maitseomadus;maitse;mekk;maik	maitsmisaistingut esile kutsuv lahustunud ainete omadus
+n	6750804	0	0.125	dom neutr	väide	seisukoht, mis kinnitab või lükkab midagi ümber ja on kas tõene või väär
+n	5719605	0	0.125	dom neutr	heli	akustiline nähtus, mida tekitab heliallika ühtlane perioodiline võnkumine, teatava kindla kõrgusega toon erinevalt mürast
+n	7757132	0	0.125	dom neutr	kirss;käsper	kirsipuu vili;(murdes)
+n	9290777	0	0.125	dom neutr	tera	väike, tugev osake
+n	5919263	0	0.125	dom neutr	süda	piltl. kasut. kõige üldisemalt inimese psüühika ja teat. füsioloogiliste protsessidega seostatuna, tunnete ja elamuste kujuteldava asu- ja lähtekohana (EKSS)
+n	1317541	0	0.125	dom neutr	koduloom;loom	ulukitest kodustamise tulemusena kujunenud, kasu v. ilu pärast kasvatatav loom
+n	6311334	0	0.125	dom neutr	translatiiv;saav;saav kääne	ks-lõpuga kääne
+n	3067518	0	0.125	dom neutr	lava;kasvulava;istikulava	raketega piiratud ning klaasi v. kilega kaetud madal lihtne katmikala hrl. köögivilja ja lillede v. nende istikute kasvatamiseks; ka selline piirav ning kattev ehitis.
+n	1579028	0	0.125	dom neutr	vares;vaak;künnilind	käheda häälega must lind
+n	4508489	0	0.125	dom neutr	aluspüksid;alukad;püksikud;trussikud;trusbad	pesuese allkeha katteks
+n	7579076	0	0.125	dom neutr	pala;suutäis;lõuatäis;amps	korraga hammustatav v. suhu võetav tükk
+n	8558661	0	0.125	dom neutr	riik	usulistes kujutelmades kellegi asupaigana v. kellegi valitseda
+n	10781817	0	0.125	dom neutr	argpüks;pelgur;jänes	arg inimene (vm. olend)
+n	7082573	0	0.125	dom neutr	toon;maneer;hääletoon;intonatsioon	kõneleja suhtumist, meeleolu, tunnet vm. väljendav häälevarjund (EKSS).
+n	14966667	0	0.125	dom neutr	puiduõli;õli	õli puidu viimistlemiseks
+n	3725035	0	0.125	dom neutr	mask	näo ees kantav (v sinna asetatav) vahend kaitseks, steriilsuse tagamiseks vm otstarbeks (EKSS)
+n	13963757	0	0.125	dom neutr	perekonnaseis	
+n	2785648	0	0.125	dom neutr	side;mähis	
+n	1160729	0	0.125	dom neutr	tapp;peks;peksmine;keretäis;mantel;koslep	
+n	6749729	0	0.125	dom neutr	ilmateade	ilmajaama teade ilma kohta (EKSS)
+n	10667187	0	0.125	dom neutr	lammas;tossike	rumal v. alandlik, alistuv ning arg inimene (EKSS)
+n	10667187	0	0.125	dom neutr	kana	halvustav sõna rumalavõitu või tühise naise kohta
+n	6774316	0	0.125	dom neutr	konventsioon	rahvusvaheline kokkulepe, hrl. riikide suhteid mingis valdkonnas v. küsimuses reguleeriv leping (EKSS)
+n	13791389	0	0.125	dom neutr	link;lüli;ühendus;side	
+n	817680	0	0.125	dom neutr	valve	(hrl. sisekohakäänetes) (valvamas, valvekorras olemise, vastavate ülesannete täitmise kohta (EKSS)
+n	7505871	0	0.125	dom neutr	distants;vahemaa	positsioonist, east vms. tingitud reserveeritus, vajalik tagasihoidlikkus suhtlemises (EKSS)
+n	7092158	0	0.125	dom neutr	dialoog	kahekõne antiikkirjandusest lähtunud filosoofilise proosa žanrina (EKSS)
+n	3839993	0	0.125	dom neutr	sulg	kinniolek, sulgus; ummik (EKSS)
+n	7199922	0	0.125	dom neutr	repliik	harilikult tabav, vaimukas või pilkav märkus
+n	6858779	0	0.125	dom neutr	sekund	diatoonilise heliastmiku teine aste; kahe diatoonilise astme vaheline intervall (EKSS)
+v	1504298	0	0.125	dom neutr	laduma	(ühesuguseid esemeid, mingit materjali) hrl. korrapäraselt (näit. ülestikku, kõrvuti, ritta) asetama
+v	2663643	0	0.125	dom neutr	rajanema;tuginema	midagi aluseks võtma, kellelegi v. millestki lähtuma
+v	2531199	0	0.125	dom neutr	pressima;pingutama;punnima	midagi pingutades tegema
+v	2628961	0	0.125	dom neutr	maksma	millegi minetamist tähendama; midagi nõudma
+#wordnetis negatiivsed, aga ekis vastuolulised.
