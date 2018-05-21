@@ -1,6 +1,6 @@
 # estwn-sentiment-analysis
-The repository containing scripts for my master thesis and other files related to them.
-The electronic version of the master thesis can be found at 
+The repository containing scripts for the master thesis "Estonian Wordnet and sentiment analysis" and other files related to them.
+
 # Structure of the repository
 The repository contains following files and directories:
 * scripts - scripts for the master thesis. For reproducing the results of the practical part of the thesis, run "all-steps.sh".
